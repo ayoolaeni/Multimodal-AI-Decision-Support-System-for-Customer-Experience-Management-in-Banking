@@ -1,0 +1,66 @@
+seed: 42
+
+paths:
+  raw_dir: data/raw
+  synthetic_dir: data/synthetic
+  processed_dir: data/processed
+  audio_dir: data/audio
+  results_dir: results
+  models_dir: models
+
+data:
+  n_customers: 900
+  test_size: 0.25
+  # fraction of customers deliberately missing each modality (for robustness eval)
+  missing_text_frac: 0.15
+  missing_voice_frac: 0.55
+  missing_txn_frac: 0.10
+
+text_model:
+  base_model: distilbert-base-uncased
+  max_length: 64
+  epochs: 3
+  batch_size: 16
+  learning_rate: 5.0e-5
+  categories:
+    - failed_transaction
+    - unauthorised_deduction
+    - unfair_charge
+    - delayed_refund
+    - card_declined
+    - app_downtime
+    - other
+
+voice_model:
+  whisper_model_size: tiny
+  device: cpu
+  compute_type: int8
+  n_synthetic_clips: 15
+
+txn_model:
+  model_type: logistic_regression
+  features:
+    - failed_transfers_count
+    - declines_count
+    - txn_frequency_change
+    - app_sessions_change
+    - days_since_last_complaint
+    - avg_resolution_delay
+
+fusion:
+  meta_model: logistic_regression
+
+# Next-best-action lookup, keyed on the dominant contributing modality/signal.
+# Kept here (not hardcoded in code) so it is editable without touching src/.
+action_map:
+  txn_failed_transfers: "Verify and process pending reversal; contact customer to confirm resolution."
+  txn_declines: "Review recent card declines with issuer rails; check for fraud-rule false positives."
+  txn_app_activity: "Investigate app/session drop-off; check for outages affecting this customer's channel."
+  text_unfair_charge: "Review recent charges and call the customer to explain or reverse."
+  text_unauthorised_deduction: "Escalate to fraud/dispute team for urgent investigation."
+  text_delayed_refund: "Expedite pending refund and provide a status update to the customer."
+  text_card_declined: "Check card status and reissue or unblock if appropriate."
+  text_app_downtime: "Confirm outage window and proactively notify the customer of resolution."
+  text_failed_transaction: "Trace the failed transaction and initiate reversal if applicable."
+  voice_negative_call: "Review call transcript; officer to follow up directly with the customer."
+  low_risk: "No urgent action; continue routine monitoring."

@@ -1,0 +1,896 @@
+{"customer_id": "CUST00000", "text": "There is a strange debit of 25,000 naira on.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00000", "text": "My card got blocked after a failed transaction on 21 July.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00001", "text": "Why was I charged 40,000 naira in SMS/alert fees on 21 July, this is more than what I was told.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00002", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00005", "text": "There is a strange debit of 8,000 naira on my account from 24 August that I did not authorise.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00006", "text": "I was charged 8,000 naira in hidden fees on 13 July that nobody explained to me before now.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00008", "text": "I noticed an unfair maintenance charge of 25,000 naira on 12 August that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00011", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 16 July and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00011", "text": "The NIP transfer I did on 11 August for 12,000 naira failed but I have not been reversed since then.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00013", "text": "The NIP transfer I did on 23 July for 1,500 naira failed but I have not been reversed since then.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00015", "text": "I keep getting a network error on the app whenever I.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00015", "text": "Someone deducted 5,000 naira from my account without my consent,.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00016", "text": "I tried to send 5,000 naira through the mobile app on.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00016", "text": "My bank transfer of 25,000 naira did not go through on 02.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00017", "text": "I tried to send 65,000 naira through the mobile app on.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00017", "text": "My bank transfer of 100,000 naira did not go through on 25.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00019", "text": "Your app keeps crashing whenever I try to log in,.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00019", "text": "Someone deducted 25,000 naira from my account without my consent,.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00020", "text": "The NIP transfer I did on 24 July for 100,000.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00020", "text": "I sent money using USSD on 17 August and it said.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00022", "text": "I wanted to confirm my new debit.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00023", "text": "The bank charged me twice for the same.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00024", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00027", "text": "Please can you confirm if my.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00028", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00029", "text": "The reversal for my 5,000 naira failed transfer on 21 July has still not reflected in my account.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00029", "text": "I noticed an unfair maintenance charge of 5,000 naira on 06 August that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00031", "text": "My debit card was declined at the POS terminal on 19.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00031", "text": "Your app keeps crashing whenever I try to log in,.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00032", "text": "I tried to send 8,000 naira through the mobile app on.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00032", "text": "Your app keeps crashing whenever I try to log in,.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00034", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00034", "text": "There is a strange debit of 25,000 naira on.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00035", "text": "Please can you confirm if my salary alert came in today, thank you.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00036", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00037", "text": "I sent money using USSD on 20 August and it said the transaction failed, but my balance still went down by 5,000 naira.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00038", "text": "The reversal for my 12,000 naira failed transfer on 19 August has still not reflected in my account.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00038", "text": "I got an alert for 100,000 naira debited from my account on 17 July that I never did, please investigate.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00040", "text": "I was charged 25,000 naira in hidden fees on 10 August that nobody explained to me before now.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00041", "text": "I'm satisfied with how my last dispute was handled, appreciate the quick turnaround.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00042", "text": "There is a strange debit of 1,500 naira on.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00042", "text": "The NIP transfer I did on 21 July for 12,000.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00043", "text": "Why was I charged 25,000 naira in SMS/alert fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00045", "text": "Can I get a statement of.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00046", "text": "My card got blocked after a failed transaction on 11 August.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00046", "text": "My card got blocked after a failed transaction on 19 August.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00048", "text": "I would like to update my phone.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00049", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00051", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00052", "text": "Thank you for resolving my last complaint quickly, I appreciate the support.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00054", "text": "Please can you confirm if my.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00055", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00056", "text": "My bank transfer of 100,000 naira did not go through on 07 August, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00057", "text": "My debit card was declined at the POS terminal on 15 July even though I had up to 5,000 naira in my account.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00057", "text": "The reversal for my 8,000 naira failed transfer on 27 July has still not reflected in my account.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00058", "text": "I wanted to confirm my new debit.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00059", "text": "Please can you confirm if my salary alert came in today, thank you.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00061", "text": "There is a strange debit of 65,000 naira on my account from 12 August that I did not authorise.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00062", "text": "The bank charged me twice for the same.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00062", "text": "The NIP transfer I did on 25 July for 12,000.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00064", "text": "I was promised a refund of 100,000 naira after.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00066", "text": "I would like to update my phone.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00068", "text": "My bank transfer of 5,000 naira did not go through on 17 August, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00068", "text": "There is a strange debit of 65,000 naira on my account from 22 August that I did not authorise.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00071", "text": "Can I get a statement of.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00072", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00074", "text": "I sent money using USSD on 23 August and it said.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00074", "text": "My money of 8,000 naira has not been returned.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00076", "text": "Please can you confirm if my salary alert came in today, thank you.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00078", "text": "My account was debited 25,000 naira on 13 July for a transaction I did not carry out at all.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00078", "text": "The USSD code has not been working since 19 August, I cannot do any transaction at all.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00079", "text": "I could not use my card to pay 5,000 naira online on 28 July, it kept getting declined for no reason.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00080", "text": "Your app keeps crashing whenever I try to log in,.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00080", "text": "I was charged 12,000 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00081", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00081", "text": "The ATM rejected my card on 22 August and kept.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00082", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 13 July and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00082", "text": "I noticed an unfair maintenance charge of 65,000 naira on 03 August that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00083", "text": "I would like to update my phone number linked to my account when convenient.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00084", "text": "My bank transfer of 1,500 naira did not go through on 21 August, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00084", "text": "I was charged 12,000 naira in hidden fees on 05 August that nobody explained to me before now.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00085", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00086", "text": "I am still waiting for a refund of 25,000 naira from a failed transaction on 12 July, it has been too long.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00087", "text": "I noticed an unfair maintenance charge of 1,500 naira on 23 July that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00088", "text": "I could not use my card to pay 65,000 naira.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00089", "text": "I was charged 1,500 naira in hidden fees on 05 August that nobody explained to me before now.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00091", "text": "I sent money using USSD on 11 August and it said the transaction failed, but my balance still went down by 5,000 naira.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00091", "text": "My bank transfer of 40,000 naira did not go through on 13 August, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00093", "text": "The reversal for my 40,000 naira failed transfer on.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00093", "text": "The mobile banking app has been down since 24.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00095", "text": "The bank charged me twice for the same.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00096", "text": "I tried to send 5,000 naira through the mobile app on 21 July but the transfer failed and my account was still debited.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00098", "text": "Your app keeps crashing whenever I try to log in,.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00098", "text": "The ATM rejected my card on 13 August and kept.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00099", "text": "The reversal for my 40,000 naira failed transfer on 14 July has still not reflected in my account.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00100", "text": "I got an alert for 25,000 naira debited from my account on 06 August that I never did, please investigate.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00101", "text": "I would like to update my phone number linked to my account when convenient.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00102", "text": "My debit card was declined at the POS terminal on 06 August even though I had up to 40,000 naira in my account.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00103", "text": "I wanted to confirm my new debit.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00104", "text": "I would like to update my phone number linked to my account when convenient.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00105", "text": "I keep getting a network error on the app whenever I try to transfer 12,000 naira, this has been since 31 July.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00105", "text": "Why was I charged 100,000 naira in SMS/alert fees on 02 August, this is more than what I was told.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00106", "text": "There is a strange debit of 100,000 naira on.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00108", "text": "There is a strange debit of 65,000 naira on my account from 12 July that I did not authorise.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00110", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00111", "text": "I'm satisfied with how my last dispute was handled, appreciate the quick turnaround.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00112", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00112", "text": "I could not use my card to pay 100,000 naira.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00114", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00115", "text": "I was charged 5,000 naira in hidden fees on 05 August that nobody explained to me before now.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00116", "text": "Please can you confirm if my salary alert came in today, thank you.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00119", "text": "I wanted to confirm my new debit.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00120", "text": "I noticed an unfair maintenance charge of 8,000 naira.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00122", "text": "Someone deducted 8,000 naira from my account without my consent,.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00122", "text": "My bank transfer of 8,000 naira did not go through on 12.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00124", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00125", "text": "I noticed an unfair maintenance charge of 1,500 naira on 18 August that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00126", "text": "The mobile banking app has been down since 31 July and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00131", "text": "The app has been working well for me lately, no issues to report.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00132", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00133", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00134", "text": "Thank you for resolving my last complaint quickly, I appreciate the support.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00135", "text": "My account was debited 65,000 naira on 08 August.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00136", "text": "I noticed an unfair maintenance charge of 65,000 naira.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00136", "text": "My account was debited 100,000 naira on 03 August.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00137", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00140", "text": "Can I get a statement of.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00141", "text": "My debit card was declined at the POS terminal on 16 July even though I had up to 65,000 naira in my account.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00144", "text": "Your app keeps crashing whenever I try to log in,.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00144", "text": "I am still waiting for a refund of 100,000 naira from.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00147", "text": "I keep getting a network error on the app whenever I try to transfer 5,000 naira, this has been since 28 July.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00148", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00150", "text": "I was promised a refund of 12,000 naira after.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00151", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00153", "text": "The mobile banking app has been down since 14 August and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00155", "text": "My debit card was declined at the POS terminal on 03 August even though I had up to 8,000 naira in my account.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00155", "text": "I am still waiting for a refund of 100,000 naira from a failed transaction on 07 August, it has been too long.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00156", "text": "I would like to update my phone number linked to my account when convenient.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00157", "text": "I would like to update my phone.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00159", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00161", "text": "I got an alert for 40,000 naira debited from my.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00164", "text": "I was promised a refund of 40,000 naira after 03 August but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00165", "text": "Someone deducted 8,000 naira from my account without my consent, I noticed it on 20 July and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00166", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00167", "text": "There is a strange debit of 12,000 naira on my account from 23 August that I did not authorise.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00168", "text": "My bank transfer of 100,000 naira did not go through on 07 August, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00168", "text": "My money of 40,000 naira has not been returned since 17 July even though the transaction did not complete.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00169", "text": "I am still waiting for a refund of 5,000 naira from.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00171", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00172", "text": "Thank you for resolving my last complaint quickly, I appreciate the support.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00173", "text": "I tried to send 65,000 naira through the mobile app on 12 July but the transfer failed and my account was still debited.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00174", "text": "I noticed an unfair maintenance charge of 25,000 naira.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00174", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00175", "text": "I was charged 8,000 naira in hidden fees on 13 August that nobody explained to me before now.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00177", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00178", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00179", "text": "The ATM rejected my card on 22 August and kept.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00179", "text": "I could not use my card to pay 8,000 naira.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00180", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00182", "text": "There is a strange debit of 8,000 naira on my account from 24 August that I did not authorise.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00182", "text": "The NIP transfer I did on 09 August for 8,000 naira failed but I have not been reversed since then.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00183", "text": "My debit card was declined at the POS terminal on 22 August even though I had up to 1,500 naira in my account.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00184", "text": "My debit card was declined at the POS terminal on 18.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00184", "text": "The NIP transfer I did on 12 August for 8,000.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00186", "text": "I wanted to confirm my new debit.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00187", "text": "My money of 100,000 naira has not been returned.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00187", "text": "There is a strange debit of 1,500 naira on.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00189", "text": "I am still waiting for a refund of 40,000 naira from.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00189", "text": "I was charged 1,500 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00190", "text": "I would like to update my phone number linked to my account when convenient.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00191", "text": "My money of 5,000 naira has not been returned.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00191", "text": "I keep getting a network error on the app whenever I.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00193", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00194", "text": "The NIP transfer I did on 01 August for 100,000 naira failed but I have not been reversed since then.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00194", "text": "The bank charged me twice for the same transaction on 23 August, totalling an extra 100,000 naira.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00195", "text": "Please can you confirm if my.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00196", "text": "I noticed an unfair maintenance charge of 8,000 naira on 13 August that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00196", "text": "The USSD code has not been working since 20 August, I cannot do any transaction at all.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00197", "text": "I wanted to confirm my new debit.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00200", "text": "The reversal for my 65,000 naira failed transfer on.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00200", "text": "The bank charged me twice for the same.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00201", "text": "I would like to update my phone number linked to my account when convenient.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00202", "text": "Please can you confirm if my.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00203", "text": "The mobile banking app has been down since 04 August and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00204", "text": "Someone deducted 5,000 naira from my account without my consent, I noticed it on 02 August and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00204", "text": "Someone deducted 1,500 naira from my account without my consent, I noticed it on 20 July and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00205", "text": "I could not use my card to pay 5,000 naira.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00205", "text": "I sent money using USSD on 21 July and it said.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00206", "text": "I was promised a refund of 40,000 naira after.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00207", "text": "My money of 1,500 naira has not been returned.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00207", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00208", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00209", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00210", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00211", "text": "The USSD code has not been working since 12 August, I cannot do any transaction at all.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00211", "text": "The mobile banking app has been down since 23 July and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00213", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 22 July and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00213", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 19 July and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00214", "text": "I was promised a refund of 5,000 naira after.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00214", "text": "I noticed an unfair maintenance charge of 40,000 naira.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00216", "text": "I got an alert for 8,000 naira debited from my account on 28 July that I never did, please investigate.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00216", "text": "I was promised a refund of 8,000 naira after 13 July but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00219", "text": "I would like to update my phone number linked to my account when convenient.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00220", "text": "I wanted to confirm my new debit.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00221", "text": "The USSD code has not been working since 23 July, I cannot do any transaction at all.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00221", "text": "My money of 25,000 naira has not been returned since 14 August even though the transaction did not complete.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00223", "text": "There is a strange debit of 5,000 naira on.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00223", "text": "I tried to send 65,000 naira through the mobile app on.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00224", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 28 July and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00224", "text": "The ATM rejected my card on 07 August and kept saying insufficient funds when I had over 1,500 naira available.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00225", "text": "Someone deducted 25,000 naira from my account without my consent, I noticed it on 07 August and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00226", "text": "My debit card was declined at the POS terminal on 20 August even though I had up to 5,000 naira in my account.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00226", "text": "The USSD code has not been working since 21 July, I cannot do any transaction at all.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00227", "text": "Can I get a statement of.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00228", "text": "I noticed an unfair maintenance charge of 5,000 naira.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00230", "text": "My money of 8,000 naira has not been returned.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00231", "text": "The app has been working well for me lately, no issues to report.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00232", "text": "I am still waiting for a refund of 8,000 naira from.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00233", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00235", "text": "I was promised a refund of 100,000 naira after 11 August but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00236", "text": "Someone deducted 100,000 naira from my account without my consent, I noticed it on 26 July and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00237", "text": "The reversal for my 40,000 naira failed transfer on 14 July has still not reflected in my account.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00237", "text": "I was promised a refund of 25,000 naira after 16 July but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00240", "text": "Someone deducted 40,000 naira from my account without my consent, I noticed it on 21 July and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00240", "text": "The NIP transfer I did on 29 July for 8,000 naira failed but I have not been reversed since then.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00241", "text": "Can I get a statement of account for the last three months please.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00242", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00244", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00245", "text": "Someone deducted 8,000 naira from my account without my consent,.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00246", "text": "I could not use my card to pay 100,000 naira online on 04 August, it kept getting declined for no reason.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00247", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 30 July and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00247", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 16 August and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00248", "text": "Thank you for resolving my last complaint quickly, I appreciate the support.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00249", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 30 July and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00251", "text": "My account was debited 1,500 naira on 25 July for a transaction I did not carry out at all.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00251", "text": "My money of 1,500 naira has not been returned since 03 August even though the transaction did not complete.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00252", "text": "The app has been working well for me lately, no issues to report.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00253", "text": "Someone deducted 1,500 naira from my account without my consent, I noticed it on 18 July and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00255", "text": "I am still waiting for a refund of 25,000 naira from.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00255", "text": "There is a strange debit of 8,000 naira on.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00256", "text": "I sent money using USSD on 15 July and it said.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00257", "text": "I am still waiting for a refund of 65,000 naira from.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00258", "text": "Please can you confirm if my salary alert came in today, thank you.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00259", "text": "I sent money using USSD on 24 August and it said.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00260", "text": "I would like to update my phone number linked to my account when convenient.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00261", "text": "The mobile banking app has been down since 31 July and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00261", "text": "My card got blocked after a failed transaction on 11 August and I could not withdraw 40,000 naira that I needed urgently.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00262", "text": "Someone deducted 5,000 naira from my account without my consent,.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00264", "text": "The mobile banking app has been down since 03 August and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00265", "text": "Please can you confirm if my.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00266", "text": "Can I get a statement of account for the last three months please.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00267", "text": "The NIP transfer I did on 17 August for 5,000 naira failed but I have not been reversed since then.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00270", "text": "Thank you for resolving my last complaint quickly, I appreciate the support.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00273", "text": "Please can you confirm if my.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00274", "text": "The reversal for my 65,000 naira failed transfer on.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00274", "text": "I sent money using USSD on 14 August and it said.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00275", "text": "I noticed an unfair maintenance charge of 1,500 naira on 24 August that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00276", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00278", "text": "My card got blocked after a failed transaction on 29 July.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00279", "text": "I got an alert for 5,000 naira debited from my.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00281", "text": "I would like to update my phone number linked to my account when convenient.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00282", "text": "My account was debited 8,000 naira on 04 August.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00283", "text": "Someone deducted 1,500 naira from my account without my consent, I noticed it on 07 August and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00285", "text": "I was promised a refund of 100,000 naira after 01 August but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00286", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00287", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00288", "text": "My money of 8,000 naira has not been returned since 15 August even though the transaction did not complete.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00288", "text": "The mobile banking app has been down since 04 August and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00289", "text": "I noticed an unfair maintenance charge of 100,000 naira.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00289", "text": "I was promised a refund of 8,000 naira after.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00290", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 19 August and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00290", "text": "There is a strange debit of 5,000 naira on my account from 17 August that I did not authorise.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00291", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00292", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00293", "text": "I was promised a refund of 8,000 naira after 26 July but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00294", "text": "I was promised a refund of 65,000 naira after.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00295", "text": "The mobile banking app has been down since 15 August and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00295", "text": "Someone deducted 8,000 naira from my account without my consent, I noticed it on 17 July and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00296", "text": "Someone deducted 1,500 naira from my account without my consent,.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00297", "text": "I noticed an unfair maintenance charge of 1,500 naira on 14 August that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00297", "text": "The ATM rejected my card on 19 August and kept saying insufficient funds when I had over 1,500 naira available.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00298", "text": "I sent money using USSD on 10 August and it said.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00298", "text": "The mobile banking app has been down since 23.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00299", "text": "My bank transfer of 12,000 naira did not go through on 20 July, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00300", "text": "I am still waiting for a refund of 25,000 naira from.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00300", "text": "I got an alert for 1,500 naira debited from my.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00301", "text": "The bank charged me twice for the same.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00301", "text": "My account was debited 65,000 naira on 19 August.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00302", "text": "I noticed an unfair maintenance charge of 65,000 naira on 07 August that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00302", "text": "My card got blocked after a failed transaction on 12 July and I could not withdraw 65,000 naira that I needed urgently.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00304", "text": "Your app keeps crashing whenever I try to log in,.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00306", "text": "I wanted to confirm my new debit card has been activated, thanks for the help.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00307", "text": "I would like to update my phone.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00309", "text": "I tried to send 65,000 naira through the mobile app on 15 August but the transfer failed and my account was still debited.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00309", "text": "I was promised a refund of 100,000 naira after 13 August but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00310", "text": "I was promised a refund of 5,000 naira after 29 July but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00310", "text": "My bank transfer of 1,500 naira did not go through on 05 August, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00311", "text": "Please can you confirm if my.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00312", "text": "Please can you confirm if my.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00313", "text": "Your app keeps crashing whenever I try to log in,.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00313", "text": "My bank transfer of 8,000 naira did not go through on 14.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00316", "text": "Please can you confirm if my.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00317", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00318", "text": "I noticed an unfair maintenance charge of 1,500 naira.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00320", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00321", "text": "I would like to update my phone.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00322", "text": "The NIP transfer I did on 22 August for 12,000.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00322", "text": "I got an alert for 5,000 naira debited from my.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00323", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00324", "text": "The ATM rejected my card on 31 July and kept saying insufficient funds when I had over 40,000 naira available.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00324", "text": "I got an alert for 25,000 naira debited from my account on 16 July that I never did, please investigate.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00325", "text": "The NIP transfer I did on 12 August for 1,500.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00325", "text": "There is a strange debit of 25,000 naira on.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00326", "text": "The USSD code has not been working since 20 August, I cannot do any transaction at all.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00326", "text": "I was charged 25,000 naira in hidden fees on 19 July that nobody explained to me before now.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00327", "text": "Thank you for resolving my last complaint quickly, I appreciate the support.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00329", "text": "My debit card was declined at the POS terminal on 18.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00329", "text": "My account was debited 25,000 naira on 10 August.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00330", "text": "The NIP transfer I did on 02 August for 40,000.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00331", "text": "My money of 25,000 naira has not been returned since 24 July even though the transaction did not complete.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00331", "text": "I noticed an unfair maintenance charge of 25,000 naira on 21 July that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00332", "text": "There is a strange debit of 100,000 naira on.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00332", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00333", "text": "My money of 12,000 naira has not been returned.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00333", "text": "I keep getting a network error on the app whenever I.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00334", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00335", "text": "There is a strange debit of 5,000 naira on my account from 19 July that I did not authorise.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00336", "text": "My money of 25,000 naira has not been returned.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00336", "text": "The reversal for my 25,000 naira failed transfer on.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00337", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00338", "text": "There is a strange debit of 25,000 naira on my account from 26 July that I did not authorise.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00339", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00340", "text": "Please can you confirm if my salary alert came in today, thank you.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00341", "text": "Why was I charged 25,000 naira in SMS/alert fees on 04 August, this is more than what I was told.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00341", "text": "I tried to send 25,000 naira through the mobile app on 30 July but the transfer failed and my account was still debited.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00343", "text": "Please can you confirm if my salary alert came in today, thank you.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00344", "text": "My debit card was declined at the POS terminal on 23.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00344", "text": "I was charged 100,000 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00346", "text": "My card got blocked after a failed transaction on 03 August and I could not withdraw 25,000 naira that I needed urgently.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00347", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 12 July and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00347", "text": "I tried to send 1,500 naira through the mobile app on 08 August but the transfer failed and my account was still debited.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00348", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00349", "text": "Please can you confirm if my salary alert came in today, thank you.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00350", "text": "I wanted to confirm my new debit card has been activated, thanks for the help.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00351", "text": "The reversal for my 100,000 naira failed transfer on.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00351", "text": "I keep getting a network error on the app whenever I.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00352", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00353", "text": "The ATM rejected my card on 28 July and kept saying insufficient funds when I had over 12,000 naira available.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00355", "text": "The app has been working well for me lately, no issues to report.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00356", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00357", "text": "I am still waiting for a refund of 40,000 naira from a failed transaction on 06 August, it has been too long.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00357", "text": "My bank transfer of 65,000 naira did not go through on 25 July, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00358", "text": "My bank transfer of 65,000 naira did not go through on 23.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00358", "text": "Your app keeps crashing whenever I try to log in,.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00360", "text": "I wanted to confirm my new debit card has been activated, thanks for the help.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00361", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00362", "text": "I was charged 12,000 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00365", "text": "I noticed an unfair maintenance charge of 100,000 naira on 28 July that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00365", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 18 July and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00367", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 24 August and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00367", "text": "The USSD code has not been working since 16 July, I cannot do any transaction at all.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00368", "text": "Your app keeps crashing whenever I try to log in,.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00368", "text": "Your app keeps crashing whenever I try to log in,.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00369", "text": "The mobile banking app has been down since 09 August and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00370", "text": "There is a strange debit of 100,000 naira on my account from 24 July that I did not authorise.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00371", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00372", "text": "Someone deducted 12,000 naira from my account without my consent, I noticed it on 23 July and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00374", "text": "The bank charged me twice for the same.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00375", "text": "I am still waiting for a refund of 40,000 naira from a failed transaction on 19 July, it has been too long.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00375", "text": "I am still waiting for a refund of 40,000 naira from a failed transaction on 10 August, it has been too long.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00376", "text": "Can I get a statement of.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00377", "text": "I wanted to confirm my new debit.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00379", "text": "Someone deducted 25,000 naira from my account without my consent,.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00380", "text": "I was promised a refund of 65,000 naira after 15 August but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00380", "text": "The ATM rejected my card on 29 July and kept saying insufficient funds when I had over 1,500 naira available.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00383", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00384", "text": "The bank charged me twice for the same transaction on 11 August, totalling an extra 40,000 naira.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00385", "text": "Can I get a statement of account for the last three months please.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00386", "text": "I was promised a refund of 1,500 naira after 24 July but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00386", "text": "My bank transfer of 8,000 naira did not go through on 29 July, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00387", "text": "There is a strange debit of 65,000 naira on.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00388", "text": "The USSD code has not been working since 07 August, I cannot do any transaction at all.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00389", "text": "My card got blocked after a failed transaction on 24 August.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00390", "text": "I was promised a refund of 5,000 naira after 21 July but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00391", "text": "The USSD code has not been working since 24 July, I cannot do any transaction at all.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00392", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00393", "text": "Someone deducted 65,000 naira from my account without my consent, I noticed it on 12 July and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00393", "text": "My account was debited 40,000 naira on 16 August for a transaction I did not carry out at all.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00394", "text": "The ATM rejected my card on 21 August and kept.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00394", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00395", "text": "The NIP transfer I did on 23 August for 1,500 naira failed but I have not been reversed since then.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00395", "text": "My money of 100,000 naira has not been returned since 02 August even though the transaction did not complete.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00396", "text": "I am still waiting for a refund of 5,000 naira from a failed transaction on 07 August, it has been too long.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00397", "text": "The mobile banking app has been down since 12 August and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00398", "text": "I was charged 8,000 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00399", "text": "My bank transfer of 25,000 naira did not go through on 03 August, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00399", "text": "Someone deducted 1,500 naira from my account without my consent, I noticed it on 14 August and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00400", "text": "I could not use my card to pay 1,500 naira.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00400", "text": "My card got blocked after a failed transaction on 16 July.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00402", "text": "I sent money using USSD on 30 July and it said the transaction failed, but my balance still went down by 65,000 naira.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00402", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 23 July and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00403", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00405", "text": "I noticed an unfair maintenance charge of 25,000 naira on 22 August that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00405", "text": "I sent money using USSD on 09 August and it said the transaction failed, but my balance still went down by 5,000 naira.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00407", "text": "My card got blocked after a failed transaction on 17 July and I could not withdraw 5,000 naira that I needed urgently.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00407", "text": "I tried to send 65,000 naira through the mobile app on 21 July but the transfer failed and my account was still debited.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00410", "text": "Please can you confirm if my salary alert came in today, thank you.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00411", "text": "I sent money using USSD on 04 August and it said.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00412", "text": "The bank charged me twice for the same.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00413", "text": "I tried to send 1,500 naira through the mobile app on.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00414", "text": "Can I get a statement of.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00415", "text": "The NIP transfer I did on 14 August for 1,500.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00416", "text": "Can I get a statement of.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00417", "text": "The NIP transfer I did on 27 July for 25,000 naira failed but I have not been reversed since then.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00417", "text": "Why was I charged 12,000 naira in SMS/alert fees on 15 August, this is more than what I was told.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00418", "text": "I am still waiting for a refund of 100,000 naira from a failed transaction on 24 August, it has been too long.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00418", "text": "The bank charged me twice for the same transaction on 21 August, totalling an extra 100,000 naira.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00419", "text": "Please can you confirm if my salary alert came in today, thank you.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00420", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 09 August and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00420", "text": "The ATM rejected my card on 07 August and kept saying insufficient funds when I had over 12,000 naira available.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00423", "text": "My debit card was declined at the POS terminal on 10.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00424", "text": "I wanted to confirm my new debit.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00426", "text": "My card got blocked after a failed transaction on 17 August.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00428", "text": "Someone deducted 40,000 naira from my account without my consent, I noticed it on 04 August and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00428", "text": "The NIP transfer I did on 12 July for 5,000 naira failed but I have not been reversed since then.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00429", "text": "I would like to update my phone.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00430", "text": "My bank transfer of 25,000 naira did not go through on 21 July, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00432", "text": "My debit card was declined at the POS terminal on 14 August even though I had up to 1,500 naira in my account.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00432", "text": "I was promised a refund of 5,000 naira after 23 August but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00433", "text": "I'm satisfied with how my last dispute was handled, appreciate the quick turnaround.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00434", "text": "I wanted to confirm my new debit.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00435", "text": "I was promised a refund of 100,000 naira after 06 August but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00438", "text": "Please can you confirm if my.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00439", "text": "Please can you confirm if my salary alert came in today, thank you.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00441", "text": "Can I get a statement of account for the last three months please.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00443", "text": "The reversal for my 65,000 naira failed transfer on.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00443", "text": "I was charged 8,000 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00444", "text": "I would like to update my phone.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00445", "text": "I am still waiting for a refund of 65,000 naira from a failed transaction on 15 July, it has been too long.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00445", "text": "Someone deducted 25,000 naira from my account without my consent, I noticed it on 27 July and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00449", "text": "Please can you confirm if my salary alert came in today, thank you.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00450", "text": "Someone deducted 1,500 naira from my account without my consent, I noticed it on 20 July and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00450", "text": "My debit card was declined at the POS terminal on 06 August even though I had up to 40,000 naira in my account.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00451", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00452", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00454", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00456", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 23 July and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00457", "text": "My card got blocked after a failed transaction on 30 July and I could not withdraw 5,000 naira that I needed urgently.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00457", "text": "The ATM rejected my card on 07 August and kept saying insufficient funds when I had over 5,000 naira available.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00458", "text": "My bank transfer of 65,000 naira did not go through on 11.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00459", "text": "My account was debited 5,000 naira on 13 August for a transaction I did not carry out at all.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00459", "text": "I noticed an unfair maintenance charge of 12,000 naira on 30 July that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00460", "text": "I am still waiting for a refund of 25,000 naira from.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00460", "text": "The reversal for my 12,000 naira failed transfer on.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00462", "text": "My card got blocked after a failed transaction on 14 August.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00462", "text": "There is a strange debit of 1,500 naira on.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00463", "text": "Can I get a statement of.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00464", "text": "The NIP transfer I did on 16 August for 65,000.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00464", "text": "I was promised a refund of 25,000 naira after.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00466", "text": "My debit card was declined at the POS terminal on 25 July even though I had up to 12,000 naira in my account.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00466", "text": "The ATM rejected my card on 26 July and kept saying insufficient funds when I had over 65,000 naira available.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00467", "text": "Someone deducted 8,000 naira from my account without my consent,.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00467", "text": "Someone deducted 100,000 naira from my account without my consent,.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00469", "text": "The reversal for my 40,000 naira failed transfer on.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00470", "text": "The bank charged me twice for the same.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00473", "text": "I was promised a refund of 100,000 naira after.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00477", "text": "The USSD code has not been working since 22 July, I cannot do any transaction at all.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00477", "text": "My bank transfer of 65,000 naira did not go through on 19 August, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00478", "text": "The reversal for my 40,000 naira failed transfer on 09 August has still not reflected in my account.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00478", "text": "Someone deducted 25,000 naira from my account without my consent, I noticed it on 29 July and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00479", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00480", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00481", "text": "My money of 5,000 naira has not been returned since 21 July even though the transaction did not complete.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00481", "text": "My debit card was declined at the POS terminal on 26 July even though I had up to 8,000 naira in my account.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00482", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 07 August and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00482", "text": "Why was I charged 5,000 naira in SMS/alert fees on 01 August, this is more than what I was told.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00484", "text": "The reversal for my 65,000 naira failed transfer on.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00488", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00489", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00491", "text": "The ATM rejected my card on 25 July and kept.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00492", "text": "Thank you for resolving my last complaint quickly, I appreciate the support.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00493", "text": "I could not use my card to pay 40,000 naira online on 17 August, it kept getting declined for no reason.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00493", "text": "I could not use my card to pay 65,000 naira online on 31 July, it kept getting declined for no reason.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00494", "text": "There is a strange debit of 100,000 naira on.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00495", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00497", "text": "The ATM rejected my card on 09 August and kept saying insufficient funds when I had over 100,000 naira available.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00497", "text": "I am still waiting for a refund of 100,000 naira from a failed transaction on 29 July, it has been too long.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00498", "text": "Please can you confirm if my.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00499", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00500", "text": "I tried to send 25,000 naira through the mobile app on.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00500", "text": "I was charged 65,000 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00501", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00503", "text": "I'm satisfied with how my last dispute was handled, appreciate the quick turnaround.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00504", "text": "The ATM rejected my card on 09 August and kept.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00504", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00505", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00506", "text": "I noticed an unfair maintenance charge of 40,000 naira.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00507", "text": "I could not use my card to pay 65,000 naira online on 30 July, it kept getting declined for no reason.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00507", "text": "I got an alert for 100,000 naira debited from my account on 19 July that I never did, please investigate.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00508", "text": "Please can you confirm if my.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00509", "text": "There is a strange debit of 100,000 naira on my account from 18 August that I did not authorise.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00510", "text": "Can I get a statement of.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00513", "text": "Why was I charged 40,000 naira in SMS/alert fees on 23 August, this is more than what I was told.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00513", "text": "The reversal for my 5,000 naira failed transfer on 14 July has still not reflected in my account.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00515", "text": "My debit card was declined at the POS terminal on 19 August even though I had up to 12,000 naira in my account.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00517", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00518", "text": "My bank transfer of 12,000 naira did not go through on 28.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00519", "text": "I wanted to confirm my new debit.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00520", "text": "I keep getting a network error on the app whenever I try to transfer 1,500 naira, this has been since 10 August.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00522", "text": "I wanted to confirm my new debit card has been activated, thanks for the help.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00523", "text": "My account was debited 100,000 naira on 31 July for a transaction I did not carry out at all.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00524", "text": "The mobile banking app has been down since 02.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00524", "text": "My bank transfer of 65,000 naira did not go through on 17.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00525", "text": "Someone deducted 5,000 naira from my account without my consent,.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00526", "text": "I would like to update my phone number linked to my account when convenient.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00527", "text": "I could not use my card to pay 5,000 naira online on 25 July, it kept getting declined for no reason.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00527", "text": "Someone deducted 65,000 naira from my account without my consent, I noticed it on 12 July and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00528", "text": "I tried to send 5,000 naira through the mobile app on 10 August but the transfer failed and my account was still debited.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00529", "text": "I tried to send 5,000 naira through the mobile app on 23 July but the transfer failed and my account was still debited.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00529", "text": "I got an alert for 8,000 naira debited from my account on 31 July that I never did, please investigate.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00530", "text": "I would like to update my phone number linked to my account when convenient.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00531", "text": "I wanted to confirm my new debit.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00534", "text": "I tried to send 1,500 naira through the mobile app on.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00534", "text": "I sent money using USSD on 12 August and it said.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00536", "text": "Please can you confirm if my.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00538", "text": "Thank you for resolving my last complaint quickly, I appreciate the support.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00539", "text": "Can I get a statement of account for the last three months please.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00541", "text": "I tried to send 40,000 naira through the mobile app on 15 August but the transfer failed and my account was still debited.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00541", "text": "I sent money using USSD on 02 August and it said the transaction failed, but my balance still went down by 5,000 naira.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00542", "text": "I was promised a refund of 5,000 naira after 14 August but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00543", "text": "Please can you confirm if my salary alert came in today, thank you.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00544", "text": "I noticed an unfair maintenance charge of 12,000 naira.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00544", "text": "I am still waiting for a refund of 5,000 naira from.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00545", "text": "The ATM rejected my card on 14 July and kept saying insufficient funds when I had over 100,000 naira available.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00545", "text": "I keep getting a network error on the app whenever I try to transfer 100,000 naira, this has been since 20 July.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00546", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00547", "text": "There is a strange debit of 12,000 naira on my account from 22 July that I did not authorise.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00548", "text": "I tried to send 8,000 naira through the mobile app on.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00548", "text": "I noticed an unfair maintenance charge of 40,000 naira.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00549", "text": "I'm satisfied with how my last dispute was handled, appreciate the quick turnaround.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00550", "text": "The NIP transfer I did on 12 August for 100,000.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00550", "text": "I keep getting a network error on the app whenever I.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00551", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00552", "text": "There is a strange debit of 25,000 naira on.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00553", "text": "I was charged 100,000 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00553", "text": "My card got blocked after a failed transaction on 25 July.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00554", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00555", "text": "My bank transfer of 1,500 naira did not go through on 01 August, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00555", "text": "I sent money using USSD on 14 August and it said the transaction failed, but my balance still went down by 40,000 naira.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00556", "text": "I could not use my card to pay 65,000 naira.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00557", "text": "I was promised a refund of 65,000 naira after 06 August but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00557", "text": "The ATM rejected my card on 20 August and kept saying insufficient funds when I had over 100,000 naira available.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00558", "text": "My card got blocked after a failed transaction on 15 August and I could not withdraw 12,000 naira that I needed urgently.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00560", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00561", "text": "My debit card was declined at the POS terminal on 12.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00561", "text": "The reversal for my 40,000 naira failed transfer on.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00563", "text": "Someone deducted 1,500 naira from my account without my consent, I noticed it on 25 July and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00563", "text": "Someone deducted 5,000 naira from my account without my consent, I noticed it on 08 August and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00564", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00565", "text": "I was charged 40,000 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00565", "text": "I got an alert for 65,000 naira debited from my.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00567", "text": "I would like to update my phone.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00568", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00570", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00572", "text": "I would like to update my phone.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00573", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00574", "text": "I keep getting a network error on the app whenever I.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00576", "text": "My debit card was declined at the POS terminal on 02 August even though I had up to 5,000 naira in my account.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00576", "text": "I noticed an unfair maintenance charge of 12,000 naira on 12 July that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00577", "text": "The mobile banking app has been down since 05 August and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00578", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00578", "text": "I was charged 8,000 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00580", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00581", "text": "Thank you for resolving my last complaint quickly, I appreciate the support.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00582", "text": "Please can you confirm if my salary alert came in today, thank you.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00583", "text": "My account was debited 65,000 naira on 09 August for a transaction I did not carry out at all.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00583", "text": "I was charged 12,000 naira in hidden fees on 22 August that nobody explained to me before now.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00584", "text": "I would like to update my phone.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00585", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00586", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00587", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00588", "text": "I was charged 100,000 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00588", "text": "I could not use my card to pay 100,000 naira.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00589", "text": "Why was I charged 1,500 naira in SMS/alert fees on 03 August, this is more than what I was told.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00591", "text": "The NIP transfer I did on 21 July for 12,000.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00593", "text": "Can I get a statement of account for the last three months please.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00595", "text": "The NIP transfer I did on 13 July for 5,000.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00596", "text": "I wanted to confirm my new debit card has been activated, thanks for the help.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00597", "text": "Can I get a statement of.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00598", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00598", "text": "I could not use my card to pay 25,000 naira.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00600", "text": "My bank transfer of 1,500 naira did not go through on 22 July, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00600", "text": "I am still waiting for a refund of 12,000 naira from a failed transaction on 06 August, it has been too long.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00601", "text": "The bank charged me twice for the same.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00601", "text": "Why was I charged 1,500 naira in SMS/alert fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00602", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00603", "text": "The NIP transfer I did on 08 August for 40,000.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00604", "text": "I am still waiting for a refund of 100,000 naira from.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00604", "text": "I was charged 100,000 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00606", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00607", "text": "My money of 8,000 naira has not been returned since 23 August even though the transaction did not complete.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00609", "text": "The ATM rejected my card on 19 August and kept.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00610", "text": "I noticed an unfair maintenance charge of 12,000 naira on 04 August that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00611", "text": "The mobile banking app has been down since 22 August and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00611", "text": "My account was debited 12,000 naira on 16 August for a transaction I did not carry out at all.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00612", "text": "I was charged 100,000 naira in hidden fees on 20 August that nobody explained to me before now.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00613", "text": "The USSD code has not been working since 15 July, I cannot do any transaction at all.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00613", "text": "I sent money using USSD on 06 August and it said the transaction failed, but my balance still went down by 65,000 naira.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00615", "text": "I was promised a refund of 25,000 naira after.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00615", "text": "The bank charged me twice for the same.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00616", "text": "I would like to update my phone number linked to my account when convenient.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00618", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00619", "text": "My money of 25,000 naira has not been returned.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00620", "text": "Why was I charged 8,000 naira in SMS/alert fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00620", "text": "The NIP transfer I did on 12 August for 1,500.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00621", "text": "I was promised a refund of 12,000 naira after 21 August but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00623", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00623", "text": "Your app keeps crashing whenever I try to log in,.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00625", "text": "I was charged 5,000 naira in hidden fees on 22 July that nobody explained to me before now.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00627", "text": "The NIP transfer I did on 21 July for 12,000 naira failed but I have not been reversed since then.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00628", "text": "I wanted to confirm my new debit card has been activated, thanks for the help.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00631", "text": "I got an alert for 100,000 naira debited from my.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00631", "text": "I sent money using USSD on 23 July and it said.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00632", "text": "The ATM rejected my card on 21 July and kept saying insufficient funds when I had over 5,000 naira available.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00633", "text": "The mobile banking app has been down since 09.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00634", "text": "Why was I charged 5,000 naira in SMS/alert fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00635", "text": "I was charged 1,500 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00636", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00639", "text": "I noticed an unfair maintenance charge of 8,000 naira on 10 August that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00640", "text": "I noticed an unfair maintenance charge of 25,000 naira.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00640", "text": "I got an alert for 1,500 naira debited from my.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00641", "text": "I noticed an unfair maintenance charge of 5,000 naira on 18 July that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00642", "text": "The ATM rejected my card on 21 August and kept saying insufficient funds when I had over 8,000 naira available.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00642", "text": "My money of 8,000 naira has not been returned since 24 August even though the transaction did not complete.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00644", "text": "There is a strange debit of 40,000 naira on my account from 16 July that I did not authorise.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00645", "text": "Someone deducted 8,000 naira from my account without my consent,.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00645", "text": "I was charged 100,000 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00646", "text": "I got an alert for 100,000 naira debited from my account on 22 July that I never did, please investigate.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00646", "text": "My money of 25,000 naira has not been returned since 30 July even though the transaction did not complete.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00647", "text": "I was charged 1,500 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00648", "text": "I could not use my card to pay 5,000 naira.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00649", "text": "My account was debited 12,000 naira on 14 July.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00649", "text": "The mobile banking app has been down since 29.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00650", "text": "I tried to send 65,000 naira through the mobile app on.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00650", "text": "I sent money using USSD on 12 July and it said.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00652", "text": "The NIP transfer I did on 14 August for 5,000.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00652", "text": "My debit card was declined at the POS terminal on 03.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00654", "text": "I could not use my card to pay 100,000 naira online on 10 August, it kept getting declined for no reason.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00654", "text": "I noticed an unfair maintenance charge of 40,000 naira on 04 August that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00655", "text": "I keep getting a network error on the app whenever I try to transfer 65,000 naira, this has been since 13 July.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00656", "text": "My account was debited 100,000 naira on 07 August for a transaction I did not carry out at all.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00656", "text": "I was promised a refund of 65,000 naira after 15 August but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00657", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00658", "text": "The app has been working well for me lately, no issues to report.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00659", "text": "I wanted to confirm my new debit.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00660", "text": "I keep getting a network error on the app whenever I.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00660", "text": "The mobile banking app has been down since 14.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00661", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00662", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00663", "text": "Can I get a statement of account for the last three months please.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00665", "text": "I would like to update my phone number linked to my account when convenient.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00668", "text": "The app has been working well for me lately, no issues to report.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00670", "text": "Why was I charged 8,000 naira in SMS/alert fees on 29 July, this is more than what I was told.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00670", "text": "I am still waiting for a refund of 12,000 naira from a failed transaction on 28 July, it has been too long.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00672", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00674", "text": "I am still waiting for a refund of 100,000 naira from.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00675", "text": "I am still waiting for a refund of 25,000 naira from a failed transaction on 07 August, it has been too long.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00676", "text": "The reversal for my 65,000 naira failed transfer on 18 August has still not reflected in my account.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00677", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00678", "text": "I was promised a refund of 40,000 naira after 24 July but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00678", "text": "The NIP transfer I did on 19 July for 8,000 naira failed but I have not been reversed since then.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00679", "text": "Please can you confirm if my salary alert came in today, thank you.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00680", "text": "Please can you confirm if my.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00682", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00684", "text": "I tried to send 12,000 naira through the mobile app on 20 July but the transfer failed and my account was still debited.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00685", "text": "I could not use my card to pay 100,000 naira.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00686", "text": "My money of 65,000 naira has not been returned.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00686", "text": "I keep getting a network error on the app whenever I.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00687", "text": "The ATM rejected my card on 10 August and kept.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00687", "text": "I am still waiting for a refund of 40,000 naira from.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00688", "text": "My account was debited 100,000 naira on 20 August for a transaction I did not carry out at all.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00688", "text": "The ATM rejected my card on 31 July and kept saying insufficient funds when I had over 40,000 naira available.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00690", "text": "I tried to send 8,000 naira through the mobile app on 23 July but the transfer failed and my account was still debited.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00692", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00693", "text": "I got an alert for 65,000 naira debited from my.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00695", "text": "I got an alert for 1,500 naira debited from my account on 17 August that I never did, please investigate.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00695", "text": "I could not use my card to pay 25,000 naira online on 12 July, it kept getting declined for no reason.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00696", "text": "I was charged 65,000 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00697", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00698", "text": "The NIP transfer I did on 13 July for 100,000 naira failed but I have not been reversed since then.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00698", "text": "I was promised a refund of 100,000 naira after 24 August but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00699", "text": "I tried to send 1,500 naira through the mobile app on.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00700", "text": "I would like to update my phone.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00702", "text": "The USSD code has not been working since 21 August, I cannot do any transaction at all.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00706", "text": "The ATM rejected my card on 15 August and kept saying insufficient funds when I had over 65,000 naira available.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00707", "text": "I wanted to confirm my new debit.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00709", "text": "My debit card was declined at the POS terminal on 16 August even though I had up to 1,500 naira in my account.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00709", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 28 July and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00710", "text": "I wanted to confirm my new debit card has been activated, thanks for the help.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00711", "text": "I noticed an unfair maintenance charge of 25,000 naira on 30 July that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00712", "text": "I was charged 5,000 naira in hidden fees on 20 August that nobody explained to me before now.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00713", "text": "I got an alert for 100,000 naira debited from my.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00713", "text": "My bank transfer of 25,000 naira did not go through on 12.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00716", "text": "The USSD code has not been working since 14 July, I cannot do any transaction at all.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00716", "text": "I am still waiting for a refund of 12,000 naira from a failed transaction on 14 August, it has been too long.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00717", "text": "I'm satisfied with how my last dispute was handled, appreciate the quick turnaround.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00719", "text": "I wanted to confirm my new debit.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00720", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 21 July and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00721", "text": "My money of 1,500 naira has not been returned since 29 July even though the transaction did not complete.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00722", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00723", "text": "My bank transfer of 25,000 naira did not go through on 15 July, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00723", "text": "My debit card was declined at the POS terminal on 17 August even though I had up to 25,000 naira in my account.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00725", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00726", "text": "Can I get a statement of account for the last three months please.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00727", "text": "I would like to update my phone number linked to my account when convenient.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00728", "text": "The mobile banking app has been down since 09.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00729", "text": "My bank transfer of 12,000 naira did not go through on 07 August, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00729", "text": "My card got blocked after a failed transaction on 18 July and I could not withdraw 40,000 naira that I needed urgently.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00730", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00731", "text": "Why was I charged 100,000 naira in SMS/alert fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00733", "text": "The NIP transfer I did on 19 July for 1,500.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00733", "text": "My card got blocked after a failed transaction on 19 July.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00734", "text": "I was promised a refund of 12,000 naira after.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00735", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00736", "text": "My account was debited 25,000 naira on 09 August.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00737", "text": "My money of 12,000 naira has not been returned.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00737", "text": "The bank charged me twice for the same.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00738", "text": "My debit card was declined at the POS terminal on 27 July even though I had up to 25,000 naira in my account.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00738", "text": "Why was I charged 5,000 naira in SMS/alert fees on 09 August, this is more than what I was told.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00739", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00742", "text": "I tried to send 25,000 naira through the mobile app on.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00743", "text": "My money of 8,000 naira has not been returned since 29 July even though the transaction did not complete.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00744", "text": "I could not use my card to pay 12,000 naira online on 27 July, it kept getting declined for no reason.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00745", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00746", "text": "There is a strange debit of 25,000 naira on.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00746", "text": "I was promised a refund of 12,000 naira after.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00747", "text": "I'm satisfied with how my last dispute was handled, appreciate the quick turnaround.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00748", "text": "The mobile banking app has been down since 27 July and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00749", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00750", "text": "My bank transfer of 12,000 naira did not go through on 08.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00751", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 23 July and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00751", "text": "I could not use my card to pay 5,000 naira online on 20 July, it kept getting declined for no reason.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00753", "text": "I am still waiting for a refund of 100,000 naira from.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00753", "text": "I keep getting a network error on the app whenever I.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00754", "text": "I was charged 40,000 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00755", "text": "The mobile banking app has been down since 06.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00756", "text": "My bank transfer of 5,000 naira did not go through on 12.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00757", "text": "There is a strange debit of 5,000 naira on my account from 03 August that I did not authorise.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00757", "text": "I noticed an unfair maintenance charge of 40,000 naira on 13 August that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00758", "text": "I noticed an unfair maintenance charge of 5,000 naira on 20 July that seems too high for this month.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00759", "text": "I wanted to confirm my new debit.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00761", "text": "The app has been working well for me lately, no issues to report.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00762", "text": "My debit card was declined at the POS terminal on 11.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00763", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00764", "text": "I was promised a refund of 1,500 naira after 30 July but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00765", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00766", "text": "I wanted to confirm my new debit card has been activated, thanks for the help.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00768", "text": "Can I get a statement of.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00769", "text": "I was promised a refund of 8,000 naira after 15 July but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00769", "text": "I am still waiting for a refund of 5,000 naira from a failed transaction on 16 August, it has been too long.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00770", "text": "Someone deducted 5,000 naira from my account without my consent,.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00770", "text": "The mobile banking app has been down since 25.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00771", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 18 August and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00772", "text": "I could not use my card to pay 8,000 naira online on 06 August, it kept getting declined for no reason.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00773", "text": "Your app keeps crashing whenever I try to log in,.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00774", "text": "Can I get a statement of.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00776", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00777", "text": "I noticed an unfair maintenance charge of 65,000 naira.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00777", "text": "My card got blocked after a failed transaction on 02 August.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00778", "text": "The ATM rejected my card on 02 August and kept saying insufficient funds when I had over 1,500 naira available.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00778", "text": "The NIP transfer I did on 20 August for 65,000 naira failed but I have not been reversed since then.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00780", "text": "Thank you for resolving my last complaint quickly, I appreciate the support.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00781", "text": "The mobile banking app has been down since 15 July and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00781", "text": "I was promised a refund of 12,000 naira after 16 July but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00782", "text": "I tried to send 65,000 naira through the mobile app on.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00783", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 22 August and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00783", "text": "I was promised a refund of 12,000 naira after 31 July but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00784", "text": "The mobile banking app has been down since 13 July and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00786", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00786", "text": "The ATM rejected my card on 24 August and kept.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00787", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00788", "text": "I keep getting a network error on the app whenever I try to transfer 8,000 naira, this has been since 31 July.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00789", "text": "There is a strange debit of 100,000 naira on my account from 23 July that I did not authorise.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00790", "text": "I could not use my card to pay 12,000 naira.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00792", "text": "Can I get a statement of.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00794", "text": "Thank you for resolving my last complaint quickly, I appreciate the support.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00796", "text": "I'm satisfied with how my last dispute was handled, appreciate the quick turnaround.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00797", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00799", "text": "My bank transfer of 12,000 naira did not go through on 01 August, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00799", "text": "Someone deducted 65,000 naira from my account without my consent, I noticed it on 14 August and I am worried.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00800", "text": "I would like to update my phone.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00801", "text": "My debit card was declined at the POS terminal on 04.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00801", "text": "The ATM rejected my card on 18 July and kept.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00802", "text": "The mobile banking app has been down since 16 August and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00802", "text": "Why was I charged 40,000 naira in SMS/alert fees on 18 July, this is more than what I was told.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00803", "text": "I keep getting a network error on the app whenever I.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00804", "text": "Why was I charged 8,000 naira in SMS/alert fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00804", "text": "Your app keeps crashing whenever I try to log in,.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00805", "text": "Can I get a statement of account for the last three months please.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00807", "text": "I tried to send 100,000 naira through the mobile app on 29 July but the transfer failed and my account was still debited.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00807", "text": "I could not use my card to pay 5,000 naira online on 02 August, it kept getting declined for no reason.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00808", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00809", "text": "I would like to update my phone number linked to my account when convenient.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00810", "text": "I was promised a refund of 65,000 naira after 13 August but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00810", "text": "I could not use my card to pay 12,000 naira online on 03 August, it kept getting declined for no reason.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00811", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00812", "text": "My debit card was declined at the POS terminal on 05 August even though I had up to 100,000 naira in my account.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00812", "text": "The NIP transfer I did on 07 August for 25,000 naira failed but I have not been reversed since then.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00813", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00814", "text": "I could not use my card to pay 5,000 naira.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00817", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00818", "text": "Can I get a statement of account for the last three months please.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00819", "text": "The app has been working well for me lately, no issues to report.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00821", "text": "I wanted to confirm my new debit card has been activated, thanks for the help.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00822", "text": "I am still waiting for a refund of 100,000 naira from a failed transaction on 13 July, it has been too long.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00823", "text": "I would like to update my phone.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00824", "text": "My money of 5,000 naira has not been returned.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00824", "text": "Why was I charged 65,000 naira in SMS/alert fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00825", "text": "Someone deducted 65,000 naira from my account without my consent,.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00825", "text": "My money of 8,000 naira has not been returned.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00826", "text": "I would like to update my phone number linked to my account when convenient.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00827", "text": "My card got blocked after a failed transaction on 27 July and I could not withdraw 1,500 naira that I needed urgently.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00828", "text": "I was promised a refund of 40,000 naira after 15 July but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00828", "text": "I sent money using USSD on 31 July and it said the transaction failed, but my balance still went down by 8,000 naira.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00829", "text": "I'm satisfied with how my last dispute was handled, appreciate the quick turnaround.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00830", "text": "My bank transfer of 100,000 naira did not go through on 16 July, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00830", "text": "I am still waiting for a refund of 1,500 naira from a failed transaction on 06 August, it has been too long.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00831", "text": "My card got blocked after a failed transaction on 21 August and I could not withdraw 100,000 naira that I needed urgently.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00832", "text": "The bank charged me twice for the same transaction on 23 August, totalling an extra 25,000 naira.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00833", "text": "I would like to update my phone.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00834", "text": "I'm satisfied with how my last dispute was handled, appreciate the quick turnaround.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00835", "text": "I was charged 25,000 naira in hidden fees on.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00835", "text": "My account was debited 25,000 naira on 18 August.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00836", "text": "Can I get a statement of.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00837", "text": "My money of 100,000 naira has not been returned since 07 August even though the transaction did not complete.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00837", "text": "Your app keeps crashing whenever I try to log in, this has been happening since 15 August and it is frustrating.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00838", "text": "My account was debited 12,000 naira on 18 July for a transaction I did not carry out at all.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00838", "text": "The reversal for my 100,000 naira failed transfer on 12 July has still not reflected in my account.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00839", "text": "There is a strange debit of 1,500 naira on.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00839", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00841", "text": "The mobile banking app has been down since 21 July and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00842", "text": "I tried to send 12,000 naira through the mobile app on.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00842", "text": "The mobile banking app has been down since 13.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00843", "text": "Can I get a statement of account for the last three months please.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00844", "text": "I could not use my card to pay 12,000 naira.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00844", "text": "My account was debited 8,000 naira on 12 August.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00845", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00846", "text": "Please can you confirm if my salary alert came in today, thank you.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00847", "text": "Your app keeps crashing whenever I try to log in,.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00847", "text": "I am still waiting for a refund of 25,000 naira from.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00848", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00850", "text": "My debit card was declined at the POS terminal on 17.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00850", "text": "My bank transfer of 12,000 naira did not go through on 21.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00851", "text": "I tried to send 100,000 naira through the mobile app on.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00852", "text": "My debit card was declined at the POS terminal on 09.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00853", "text": "The bank charged me twice for the same transaction on 13 July, totalling an extra 1,500 naira.", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00853", "text": "I could not use my card to pay 5,000 naira online on 15 July, it kept getting declined for no reason.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00854", "text": "The USSD code has not been working since 21 July, I cannot do any transaction at all.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00855", "text": "Please can you confirm if my.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00856", "text": "My debit card was declined at the POS terminal on 08.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00856", "text": "My debit card was declined at the POS terminal on 27.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00857", "text": "There is a strange debit of 100,000 naira on.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00859", "text": "I am still waiting for a refund of 100,000 naira from.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00860", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00861", "text": "Thank you for resolving my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00862", "text": "The USSD code has not been working since 13 July, I cannot do any transaction at all.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00862", "text": "My bank transfer of 1,500 naira did not go through on 06 August, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00863", "text": "My account was debited 40,000 naira on 20 July for a transaction I did not carry out at all.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00863", "text": "I could not use my card to pay 65,000 naira online on 11 August, it kept getting declined for no reason.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00864", "text": "Thank you for resolving my last complaint quickly, I appreciate the support.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00865", "text": "The NIP transfer I did on 13 August for 40,000.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00866", "text": "I am still waiting for a refund of 1,500 naira from a failed transaction on 04 August, it has been too long.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00866", "text": "I was promised a refund of 12,000 naira after 20 August but nothing has come into my account yet.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00867", "text": "The ATM rejected my card on 06 August and kept.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00868", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00869", "text": "Just checking my account balance and recent transactions, everything looks fine.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00870", "text": "I could not use my card to pay 1,500 naira.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00871", "text": "The USSD code has not been working since.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00872", "text": "The ATM rejected my card on 19 August and kept saying insufficient funds when I had over 1,500 naira available.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00875", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00876", "text": "My debit card was declined at the POS terminal on 27.", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00876", "text": "The NIP transfer I did on 11 August for 25,000.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00877", "text": "I wanted to confirm my new debit.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00878", "text": "I got an alert for 40,000 naira debited from my account on 13 August that I never did, please investigate.", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00881", "text": "The app has been working well for me lately, no issues to report.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00885", "text": "I'm satisfied with how my last dispute was handled, appreciate the quick turnaround.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00886", "text": "I'm satisfied with how my last.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00887", "text": "The NIP transfer I did on 13 July for 40,000.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00887", "text": "I am still waiting for a refund of 100,000 naira from.", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00888", "text": "Can I get a statement of account for the last three months please.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00890", "text": "The app has been working well.", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00891", "text": "My bank transfer of 40,000 naira did not go through on 11.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00892", "text": "My bank transfer of 12,000 naira did not go through on 02 August, the money left my account but the receiver never got it.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00893", "text": "The mobile banking app has been down since 09 August and I cannot check my balance or send money.", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00897", "text": "I sent money using USSD on 24 July and it said the transaction failed, but my balance still went down by 8,000 naira.", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00899", "text": "Just checking my account balance and.", "category": "other", "eff_label": 0}

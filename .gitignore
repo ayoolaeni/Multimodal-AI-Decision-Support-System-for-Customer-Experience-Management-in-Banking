@@ -1,0 +1,23 @@
+.venv/
+venvs/
+__pycache__/
+*.pyc
+data/raw/
+data/audio/
+data/processed/
+models/
+.pytest_cache/
+.streamlit/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# secrets
+.env
+
+# Claude Code local state
+.claude/

@@ -1,0 +1,659 @@
+{"customer_id": "CUST00000", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00002", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00003", "transcript": "the atm rejected my card since 24 July it", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00004", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00005", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00007", "transcript": "please my refund of 40,000 naira since 28 July has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00009", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00010", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00011", "transcript": "i was charged twice on 08 August that is like 12,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00012", "transcript": "somebody took 12,000 naira from my account on 02 August i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00014", "transcript": "the app has been down since 28 July i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00015", "transcript": "the atm rejected my card since 17 July it", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00016", "transcript": "the atm rejected my card since 12 July it", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00019", "transcript": "the app has been down since 31 July", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00020", "transcript": "my card was declined at the pos on 12 July", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00021", "transcript": "i am still waiting for 1,500 naira reversal from 21 July please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00022", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00025", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00026", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00027", "transcript": "i was charged twice on 18 August that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00029", "transcript": "please my refund of 100,000 naira since 02 August has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00030", "transcript": "i was charged twice on 18 July that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00031", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00033", "transcript": "the app has been down since 08 August i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00034", "transcript": "good day please my transfer of 40,000 naira on 01", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00035", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00036", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00037", "transcript": "please my refund of 1,500 naira since 14 July has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00038", "transcript": "somebody took 8,000 naira from my account on 05 August i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00040", "transcript": "somebody took 100,000 naira from my account on 23 July i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00041", "transcript": "i was charged twice on 13 August that is like 40,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00043", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00044", "transcript": "the app has been down since 23 August", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00045", "transcript": "please my refund of 8,000 naira since 23", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00046", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00048", "transcript": "i was charged twice on 22 July that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00049", "transcript": "please i saw a debit of 8,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00050", "transcript": "the atm rejected my card since 16 July it kept saying insufficient funds but i had 100,000 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00051", "transcript": "i sent money since 09 August the app say failed", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00053", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00054", "transcript": "i am still waiting for 40,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00056", "transcript": "please my refund of 65,000 naira since 12 July has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00057", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00058", "transcript": "please my refund of 12,000 naira since 28", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00062", "transcript": "the app has been down since 17 August", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00063", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00064", "transcript": "the ussd is not working since 30", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00066", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00067", "transcript": "good day please my transfer of 65,000 naira on 31 July it failed but the money don leave my account", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00069", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00070", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00072", "transcript": "the ussd is not working since 22", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00073", "transcript": "please i saw a debit of 25,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00074", "transcript": "i was charged twice on 08 August that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00076", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00077", "transcript": "i sent money since 17 July the app say failed", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00078", "transcript": "i sent money since 14 August the app say failed but my balance don reduce by 12,000 naira please help me", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00079", "transcript": "the atm rejected my card since 18 August it kept saying insufficient funds but i had 25,000 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00081", "transcript": "please i saw a debit of 65,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00082", "transcript": "the app has been down since 09 August i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00084", "transcript": "the app has been down since 22 July i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00086", "transcript": "i was charged twice on 04 August that is like 8,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00087", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00088", "transcript": "why did you charge me 5,000 naira extra on", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00089", "transcript": "the app has been down since 14 August i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00090", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00091", "transcript": "i am still waiting for 12,000 naira reversal from 09 August please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00092", "transcript": "the app has been down since 15 July i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00093", "transcript": "i was charged twice on 23 August that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00094", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00096", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00097", "transcript": "my card was declined at the pos on 16 August but i have up to 100,000 naira please check my card", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00098", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00099", "transcript": "my card was declined at the pos on 15 July but i have up to 5,000 naira please check my card", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00100", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00102", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00103", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00104", "transcript": "good day please my transfer of 12,000 naira on 05 August it failed but the money don leave my account", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00105", "transcript": "why did you charge me 5,000 naira extra on 18 August nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00106", "transcript": "please my refund of 65,000 naira since 09", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00107", "transcript": "please my refund of 8,000 naira since 14 July has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00108", "transcript": "i am still waiting for 8,000 naira reversal from 20 August please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00109", "transcript": "i sent money since 19 August the app say failed", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00110", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00111", "transcript": "i was charged twice on 17 August that is like 5,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00112", "transcript": "the app has been down since 21 July", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00113", "transcript": "why did you charge me 5,000 naira extra on 23 July nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00114", "transcript": "the atm rejected my card since 10 August it kept saying insufficient funds but i had 65,000 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00115", "transcript": "i am still waiting for 8,000 naira reversal from 12 August please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00116", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00118", "transcript": "the app has been down since 02 August", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00119", "transcript": "please my refund of 5,000 naira since 24", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00120", "transcript": "the app has been down since 23 August", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00121", "transcript": "the atm rejected my card since 03 August it kept saying insufficient funds but i had 100,000 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00122", "transcript": "please i saw a debit of 12,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00123", "transcript": "the atm rejected my card since 22 August it kept saying insufficient funds but i had 8,000 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00124", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00125", "transcript": "i am still waiting for 25,000 naira reversal from 06 August please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00126", "transcript": "please i saw a debit of 8,000 naira i did not do this on 29 July i need this checked urgently", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00127", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00128", "transcript": "the app has been down since 24 July", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00129", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00130", "transcript": "good day please my transfer of 8,000 naira on 30", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00131", "transcript": "the atm rejected my card since 23 August it kept saying insufficient funds but i had 65,000 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00132", "transcript": "please i saw a debit of 5,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00133", "transcript": "i was charged twice on 20 August that is like 12,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00134", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00135", "transcript": "please my refund of 8,000 naira since 17", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00136", "transcript": "the ussd is not working since 18", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00140", "transcript": "the app has been down since 15 July", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00141", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00142", "transcript": "i was charged twice on 09 August that is like 25,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00145", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00146", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00147", "transcript": "somebody took 25,000 naira from my account on 14 August i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00148", "transcript": "i sent money since 24 August the app say failed", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00149", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00150", "transcript": "please my refund of 40,000 naira since 22", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00153", "transcript": "my card was declined at the pos on 15 July but i have up to 12,000 naira please check my card", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00154", "transcript": "the ussd is not working since 07", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00156", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00157", "transcript": "please i saw a debit of 40,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00159", "transcript": "i am still waiting for 12,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00160", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00161", "transcript": "why did you charge me 25,000 naira extra on", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00163", "transcript": "i was charged twice on 26 July that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00165", "transcript": "i am still waiting for 8,000 naira reversal from 14 July please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00169", "transcript": "i was charged twice on 08 August that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00170", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00171", "transcript": "somebody took 5,000 naira from my account on 13", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00172", "transcript": "please i saw a debit of 40,000 naira i did not do this on 14 August i need this checked urgently", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00173", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00174", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00176", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00177", "transcript": "good day please my transfer of 8,000 naira on 24", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00178", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00179", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00180", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00181", "transcript": "i am still waiting for 25,000 naira reversal from 18 July please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00183", "transcript": "somebody took 25,000 naira from my account on 11 August i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00184", "transcript": "please i saw a debit of 25,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00186", "transcript": "the atm rejected my card since 12 July it", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00187", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00188", "transcript": "i sent money since 22 August the app say failed", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00189", "transcript": "i was charged twice on 23 July that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00192", "transcript": "the atm rejected my card since 30 July it", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00193", "transcript": "i was charged twice on 19 August that is like 25,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00196", "transcript": "the app has been down since 02 August i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00198", "transcript": "please i saw a debit of 65,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00199", "transcript": "i am still waiting for 8,000 naira reversal from 14 July please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00200", "transcript": "the atm rejected my card since 16 July it", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00201", "transcript": "i was charged twice on 13 July that is like 1,500 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00202", "transcript": "my card was declined at the pos on 20 July", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00203", "transcript": "i am still waiting for 8,000 naira reversal from 21 July please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00204", "transcript": "i am still waiting for 25,000 naira reversal from 28 July please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00205", "transcript": "i am still waiting for 12,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00206", "transcript": "please i saw a debit of 40,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00207", "transcript": "why did you charge me 65,000 naira extra on", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00208", "transcript": "i sent money since 21 July the app say failed but my balance don reduce by 25,000 naira please help me", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00210", "transcript": "the ussd is not working since 16", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00211", "transcript": "the app has been down since 03 August i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00212", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00213", "transcript": "i was charged twice on 14 July that is like 65,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00214", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00215", "transcript": "please my refund of 65,000 naira since 21 August has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00216", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00217", "transcript": "somebody took 25,000 naira from my account on 19 August i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00219", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00221", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00222", "transcript": "good day please my transfer of 5,000 naira on 14", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00223", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00224", "transcript": "please my refund of 12,000 naira since 18 August has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00226", "transcript": "i am still waiting for 1,500 naira reversal from 29 July please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00228", "transcript": "i was charged twice on 30 July that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00232", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00234", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00235", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00237", "transcript": "i was charged twice on 18 August that is like 25,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00240", "transcript": "the ussd is not working since 16 July please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00241", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00242", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00244", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00246", "transcript": "i was charged twice on 20 August that is like 65,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00247", "transcript": "good day please my transfer of 1,500 naira on 22 July it failed but the money don leave my account", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00249", "transcript": "my card was declined at the pos on 26 July but i have up to 25,000 naira please check my card", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00250", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00251", "transcript": "the ussd is not working since 02 August please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00252", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00253", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00254", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00255", "transcript": "please my refund of 25,000 naira since 18", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00256", "transcript": "the app has been down since 08 August", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00258", "transcript": "my card was declined at the pos on 17 July but i have up to 12,000 naira please check my card", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00259", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00261", "transcript": "the app has been down since 02 August i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00264", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00265", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00266", "transcript": "the ussd is not working since 20 August please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00267", "transcript": "please my refund of 1,500 naira since 24 August has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00273", "transcript": "please i saw a debit of 40,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00274", "transcript": "please my refund of 12,000 naira since 20", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00275", "transcript": "i was charged twice on 03 August that is like 1,500 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00276", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00277", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00279", "transcript": "i am still waiting for 65,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00281", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00283", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00284", "transcript": "i am still waiting for 65,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00286", "transcript": "the atm rejected my card since 18 August it", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00287", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00288", "transcript": "i am still waiting for 8,000 naira reversal from 15 August please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00290", "transcript": "please i saw a debit of 5,000 naira i did not do this on 18 August i need this checked urgently", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00293", "transcript": "i sent money since 15 August the app say failed but my balance don reduce by 65,000 naira please help me", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00295", "transcript": "please my refund of 5,000 naira since 23 August has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00297", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00298", "transcript": "i sent money since 18 August the app say failed", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00299", "transcript": "why did you charge me 1,500 naira extra on 09 August nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00300", "transcript": "the atm rejected my card since 07 August it", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00301", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00302", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00303", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00305", "transcript": "the atm rejected my card since 11 August it", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00307", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00309", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00310", "transcript": "please i saw a debit of 8,000 naira i did not do this on 23 July i need this checked urgently", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00311", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00314", "transcript": "please i saw a debit of 25,000 naira i did not do this on 13 August i need this checked urgently", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00315", "transcript": "please my refund of 12,000 naira since 16", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00317", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00318", "transcript": "somebody took 5,000 naira from my account on 28", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00319", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00321", "transcript": "please my refund of 8,000 naira since 11", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00322", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00324", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00325", "transcript": "please my refund of 8,000 naira since 19", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00326", "transcript": "good day please my transfer of 100,000 naira on 20 August it failed but the money don leave my account", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00327", "transcript": "the app has been down since 23 August i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00328", "transcript": "my card was declined at the pos on 15 August", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00330", "transcript": "i am still waiting for 25,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00331", "transcript": "why did you charge me 8,000 naira extra on 09 August nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00332", "transcript": "please i saw a debit of 100,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00333", "transcript": "somebody took 40,000 naira from my account on 23", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00335", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00336", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00338", "transcript": "the atm rejected my card since 09 August it kept saying insufficient funds but i had 100,000 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00339", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00340", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00341", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00342", "transcript": "i am still waiting for 40,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00344", "transcript": "somebody took 1,500 naira from my account on 16", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00345", "transcript": "why did you charge me 1,500 naira extra on", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00346", "transcript": "the app has been down since 23 July i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00347", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00348", "transcript": "somebody took 8,000 naira from my account on 24", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00349", "transcript": "the ussd is not working since 12 August please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00350", "transcript": "somebody took 65,000 naira from my account on 27 July i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00353", "transcript": "please my refund of 5,000 naira since 26 July has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00355", "transcript": "good day please my transfer of 5,000 naira on 02 August it failed but the money don leave my account", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00357", "transcript": "please i saw a debit of 1,500 naira i did not do this on 12 July i need this checked urgently", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00358", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00359", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00361", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00362", "transcript": "the app has been down since 19 August", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00364", "transcript": "the atm rejected my card since 12 August it kept saying insufficient funds but i had 1,500 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00365", "transcript": "please i saw a debit of 40,000 naira i did not do this on 02 August i need this checked urgently", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00366", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00368", "transcript": "the ussd is not working since 21", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00370", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00371", "transcript": "the app has been down since 04 August", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00373", "transcript": "i am still waiting for 1,500 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00374", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00376", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00377", "transcript": "i was charged twice on 20 August that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00378", "transcript": "the app has been down since 23 August", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00379", "transcript": "please my refund of 5,000 naira since 28", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00380", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00381", "transcript": "somebody took 100,000 naira from my account on 03 August i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00383", "transcript": "i was charged twice on 14 August that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00384", "transcript": "why did you charge me 100,000 naira extra on 12 August nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00385", "transcript": "why did you charge me 65,000 naira extra on 30 July nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00386", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00387", "transcript": "good day please my transfer of 12,000 naira on 01", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00388", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00389", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00390", "transcript": "i was charged twice on 10 August that is like 25,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00391", "transcript": "the ussd is not working since 29 July please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00392", "transcript": "somebody took 25,000 naira from my account on 23", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00393", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00394", "transcript": "i am still waiting for 12,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00395", "transcript": "the ussd is not working since 29 July please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00397", "transcript": "why did you charge me 5,000 naira extra on 20 July nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00398", "transcript": "somebody took 12,000 naira from my account on 21", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00399", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00400", "transcript": "i was charged twice on 14 August that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00401", "transcript": "please my refund of 12,000 naira since 14", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00402", "transcript": "the ussd is not working since 16 August please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00403", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00404", "transcript": "why did you charge me 12,000 naira extra on", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00405", "transcript": "i am still waiting for 65,000 naira reversal from 14 July please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00407", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00408", "transcript": "my card was declined at the pos on 18 July", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00410", "transcript": "the app has been down since 01 August i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00412", "transcript": "why did you charge me 40,000 naira extra on", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00414", "transcript": "the app has been down since 17 July", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00415", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00416", "transcript": "the ussd is not working since 13", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00417", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00419", "transcript": "the app has been down since 27 July i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00420", "transcript": "good day please my transfer of 12,000 naira on 12 August it failed but the money don leave my account", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00421", "transcript": "why did you charge me 1,500 naira extra on 02 August nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00422", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00423", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00425", "transcript": "i am still waiting for 5,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00427", "transcript": "the ussd is not working since 18 August please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00429", "transcript": "my card was declined at the pos on 04 August", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00430", "transcript": "i was charged twice on 25 July that is like 40,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00431", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00432", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00433", "transcript": "why did you charge me 25,000 naira extra on 18 July nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00435", "transcript": "please my refund of 25,000 naira since 23 August has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00437", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00438", "transcript": "my card was declined at the pos on 14 July", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00439", "transcript": "i am still waiting for 8,000 naira reversal from 05 August please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00442", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00444", "transcript": "i was charged twice on 13 July that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00445", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00447", "transcript": "the ussd is not working since 12", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00449", "transcript": "why did you charge me 100,000 naira extra on 07 August nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00450", "transcript": "please my refund of 65,000 naira since 18 August has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00451", "transcript": "somebody took 65,000 naira from my account on 29", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00452", "transcript": "i was charged twice on 06 August that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00453", "transcript": "somebody took 100,000 naira from my account on 20 August i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00454", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00458", "transcript": "please i saw a debit of 8,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00459", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00460", "transcript": "somebody took 25,000 naira from my account on 15", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00461", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00462", "transcript": "the app has been down since 21 July", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00463", "transcript": "the ussd is not working since 20", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00464", "transcript": "i sent money since 08 August the app say failed", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00465", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00466", "transcript": "the app has been down since 09 August i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00468", "transcript": "somebody took 1,500 naira from my account on 25 July i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00470", "transcript": "the ussd is not working since 19", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00471", "transcript": "please i saw a debit of 65,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00472", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00474", "transcript": "the ussd is not working since 27", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00475", "transcript": "the atm rejected my card since 13 July it kept saying insufficient funds but i had 1,500 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00476", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00477", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00479", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00480", "transcript": "somebody took 40,000 naira from my account on 20 August i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00481", "transcript": "why did you charge me 100,000 naira extra on 17 July nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00482", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00483", "transcript": "i sent money since 23 August the app say failed", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00485", "transcript": "somebody took 8,000 naira from my account on 19 July i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00486", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00488", "transcript": "my card was declined at the pos on 21 August", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00489", "transcript": "why did you charge me 40,000 naira extra on", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00493", "transcript": "the atm rejected my card since 18 July it kept saying insufficient funds but i had 65,000 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00494", "transcript": "my card was declined at the pos on 26 July", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00497", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00498", "transcript": "the app has been down since 25 July", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00500", "transcript": "i was charged twice on 31 July that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00502", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00504", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00506", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00507", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00508", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00509", "transcript": "the app has been down since 28 July i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00510", "transcript": "the app has been down since 23 August", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00511", "transcript": "i sent money since 21 July the app say failed but my balance don reduce by 25,000 naira please help me", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00513", "transcript": "somebody took 25,000 naira from my account on 19 July i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00514", "transcript": "why did you charge me 5,000 naira extra on", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00515", "transcript": "please my refund of 40,000 naira since 20 August has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00517", "transcript": "why did you charge me 1,500 naira extra on 16 July nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00520", "transcript": "why did you charge me 100,000 naira extra on 19 July nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00521", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00522", "transcript": "please my refund of 12,000 naira since 29 July has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00523", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00524", "transcript": "i was charged twice on 06 August that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00525", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00526", "transcript": "please my refund of 5,000 naira since 22 August has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00527", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00528", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00530", "transcript": "i was charged twice on 01 August that is like 40,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00531", "transcript": "i was charged twice on 27 July that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00532", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00533", "transcript": "please i saw a debit of 100,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00534", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00535", "transcript": "the app has been down since 26 July i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00536", "transcript": "my card was declined at the pos on 24 July", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00537", "transcript": "the ussd is not working since 23", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00538", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00540", "transcript": "i am still waiting for 25,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00541", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00542", "transcript": "the atm rejected my card since 30 July it kept saying insufficient funds but i had 5,000 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00544", "transcript": "i was charged twice on 11 August that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00545", "transcript": "the app has been down since 02 August i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00546", "transcript": "good day please my transfer of 1,500 naira on 05", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00547", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00549", "transcript": "somebody took 100,000 naira from my account on 16 July i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00550", "transcript": "the ussd is not working since 25", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00553", "transcript": "please my refund of 12,000 naira since 04", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00555", "transcript": "please my refund of 25,000 naira since 20 August has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00556", "transcript": "somebody took 5,000 naira from my account on 25", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00558", "transcript": "i am still waiting for 40,000 naira reversal from 23 August please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00559", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00561", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00563", "transcript": "why did you charge me 5,000 naira extra on 31 July nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00565", "transcript": "why did you charge me 40,000 naira extra on", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00566", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00567", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00568", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00570", "transcript": "please i saw a debit of 8,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00571", "transcript": "good day please my transfer of 65,000 naira on 16", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00572", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00574", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00575", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00576", "transcript": "please i saw a debit of 5,000 naira i did not do this on 22 July i need this checked urgently", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00578", "transcript": "good day please my transfer of 12,000 naira on 22", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00579", "transcript": "my card was declined at the pos on 30 July but i have up to 5,000 naira please check my card", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00580", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00581", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00582", "transcript": "why did you charge me 8,000 naira extra on 08 August nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00583", "transcript": "the ussd is not working since 31 July please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00584", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00586", "transcript": "good day please my transfer of 12,000 naira on 15", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00587", "transcript": "somebody took 100,000 naira from my account on 01", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00590", "transcript": "please my refund of 65,000 naira since 16 July has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00592", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00595", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00596", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00597", "transcript": "the app has been down since 25 July", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00598", "transcript": "i am still waiting for 25,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00599", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00600", "transcript": "i was charged twice on 20 July that is like 25,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00601", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00603", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00604", "transcript": "good day please my transfer of 25,000 naira on 14", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00605", "transcript": "the app has been down since 28 July i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00606", "transcript": "please i saw a debit of 65,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00607", "transcript": "the atm rejected my card since 27 July it kept saying insufficient funds but i had 1,500 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00608", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00609", "transcript": "please i saw a debit of 5,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00610", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00612", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00613", "transcript": "the atm rejected my card since 24 August it kept saying insufficient funds but i had 1,500 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00614", "transcript": "i am still waiting for 1,500 naira reversal from 02 August please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00615", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00616", "transcript": "i am still waiting for 25,000 naira reversal from 07 August please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00618", "transcript": "the atm rejected my card since 15 August it kept saying insufficient funds but i had 100,000 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00620", "transcript": "i am still waiting for 65,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00621", "transcript": "somebody took 1,500 naira from my account on 14 August i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00622", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00624", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00626", "transcript": "good day please my transfer of 65,000 naira on 16", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00628", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00629", "transcript": "why did you charge me 12,000 naira extra on 17 August nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00630", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00632", "transcript": "somebody took 1,500 naira from my account on 21 July i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00633", "transcript": "i sent money since 02 August the app say failed", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00634", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00635", "transcript": "the atm rejected my card since 05 August it", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00636", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00637", "transcript": "good day please my transfer of 25,000 naira on 06 August it failed but the money don leave my account", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00638", "transcript": "i was charged twice on 15 July that is like 40,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00639", "transcript": "please i saw a debit of 40,000 naira i did not do this on 24 July i need this checked urgently", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00640", "transcript": "please i saw a debit of 1,500 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00641", "transcript": "the atm rejected my card since 10 August it kept saying insufficient funds but i had 12,000 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00642", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00645", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00646", "transcript": "please i saw a debit of 65,000 naira i did not do this on 23 July i need this checked urgently", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00647", "transcript": "the app has been down since 25 July", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00649", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00650", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00653", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00654", "transcript": "why did you charge me 12,000 naira extra on 07 August nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00657", "transcript": "i was charged twice on 30 July that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00658", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00659", "transcript": "please my refund of 25,000 naira since 22", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00660", "transcript": "i was charged twice on 22 July that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00661", "transcript": "my card was declined at the pos on 24 August", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00663", "transcript": "good day please my transfer of 100,000 naira on 24 July it failed but the money don leave my account", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00664", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00665", "transcript": "the ussd is not working since 28 July please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00668", "transcript": "my card was declined at the pos on 20 July but i have up to 5,000 naira please check my card", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00669", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00670", "transcript": "i was charged twice on 16 July that is like 5,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00671", "transcript": "somebody took 65,000 naira from my account on 26 July i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00672", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00674", "transcript": "i was charged twice on 02 August that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00676", "transcript": "i sent money since 04 August the app say failed but my balance don reduce by 65,000 naira please help me", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00681", "transcript": "the ussd is not working since 11", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00684", "transcript": "the app has been down since 17 August i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00685", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00686", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00687", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00689", "transcript": "my card was declined at the pos on 04 August but i have up to 25,000 naira please check my card", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00690", "transcript": "i was charged twice on 26 July that is like 40,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00691", "transcript": "i was charged twice on 12 July that is like 12,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00692", "transcript": "the app has been down since 16 August", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00693", "transcript": "the atm rejected my card since 13 August it", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00694", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00696", "transcript": "somebody took 12,000 naira from my account on 08", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00697", "transcript": "i am still waiting for 1,500 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00698", "transcript": "please my refund of 100,000 naira since 12 August has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00699", "transcript": "i sent money since 20 August the app say failed", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00700", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00702", "transcript": "the atm rejected my card since 27 July it kept saying insufficient funds but i had 100,000 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00703", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00704", "transcript": "i was charged twice on 02 August that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00706", "transcript": "somebody took 12,000 naira from my account on 08 August i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00707", "transcript": "the app has been down since 26 July", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00708", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00709", "transcript": "good day please my transfer of 5,000 naira on 18 July it failed but the money don leave my account", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00710", "transcript": "the app has been down since 21 July i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00711", "transcript": "i am still waiting for 8,000 naira reversal from 03 August please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00712", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00714", "transcript": "good day please my transfer of 40,000 naira on 27", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00715", "transcript": "the ussd is not working since 02", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00717", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00718", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00721", "transcript": "good day please my transfer of 5,000 naira on 11 August it failed but the money don leave my account", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00722", "transcript": "i am still waiting for 100,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00723", "transcript": "please my refund of 12,000 naira since 20 July has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00724", "transcript": "good day please my transfer of 40,000 naira on 26", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00725", "transcript": "good day please my transfer of 8,000 naira on 04", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00726", "transcript": "i sent money since 22 July the app say failed but my balance don reduce by 8,000 naira please help me", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00727", "transcript": "please my refund of 100,000 naira since 02 August has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00729", "transcript": "the ussd is not working since 21 July please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00730", "transcript": "i sent money since 19 July the app say failed", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00731", "transcript": "i was charged twice on 14 August that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00732", "transcript": "somebody took 12,000 naira from my account on 19", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00733", "transcript": "i am still waiting for 100,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00734", "transcript": "i am still waiting for 100,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00735", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00736", "transcript": "the app has been down since 22 July", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00737", "transcript": "my card was declined at the pos on 20 August", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00738", "transcript": "please i saw a debit of 25,000 naira i did not do this on 15 July i need this checked urgently", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00739", "transcript": "my card was declined at the pos on 14 August", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00741", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00742", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00743", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00744", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00745", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00747", "transcript": "the ussd is not working since 10 August please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00748", "transcript": "somebody took 5,000 naira from my account on 29 July i did not authorise it at all please", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00749", "transcript": "the app has been down since 21 July", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00750", "transcript": "the ussd is not working since 25", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00751", "transcript": "why did you charge me 8,000 naira extra on 21 August nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00752", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00754", "transcript": "i sent money since 10 August the app say failed", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00756", "transcript": "the app has been down since 17 July", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00760", "transcript": "my card was declined at the pos on 22 July but i have up to 8,000 naira please check my card", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00761", "transcript": "i sent money since 20 August the app say failed but my balance don reduce by 100,000 naira please help me", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00762", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00764", "transcript": "i am still waiting for 1,500 naira reversal from 30 July please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00765", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00766", "transcript": "i am still waiting for 8,000 naira reversal from 20 August please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00767", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00768", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00769", "transcript": "the ussd is not working since 03 August please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00770", "transcript": "please my refund of 100,000 naira since 16", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00771", "transcript": "the ussd is not working since 12 July please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00772", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00775", "transcript": "the ussd is not working since 30 July please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00776", "transcript": "good day please my transfer of 40,000 naira on 22", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00777", "transcript": "the app has been down since 20 July", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00778", "transcript": "i sent money since 29 July the app say failed but my balance don reduce by 1,500 naira please help me", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00779", "transcript": "good day please my transfer of 5,000 naira on 19 July it failed but the money don leave my account", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00782", "transcript": "good day please my transfer of 40,000 naira on 22", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00783", "transcript": "my card was declined at the pos on 03 August but i have up to 65,000 naira please check my card", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00784", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00785", "transcript": "please i saw a debit of 12,000 naira i did not do this on 17 July i need this checked urgently", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00786", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00787", "transcript": "i am still waiting for 100,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00789", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00791", "transcript": "please my refund of 8,000 naira since 20", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00792", "transcript": "i am still waiting for 12,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00794", "transcript": "please my refund of 8,000 naira since 10 August has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00795", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00796", "transcript": "good day please my transfer of 65,000 naira on 28 July it failed but the money don leave my account", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00797", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00798", "transcript": "the ussd is not working since 28", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00799", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00800", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00802", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00803", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00805", "transcript": "why did you charge me 8,000 naira extra on 10 August nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00806", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00807", "transcript": "the app has been down since 28 July i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00808", "transcript": "please my refund of 100,000 naira since 22", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00809", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00811", "transcript": "i just want to update my", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00812", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00813", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00815", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00816", "transcript": "please my refund of 1,500 naira since 27 July has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00818", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00819", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00821", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00822", "transcript": "the ussd is not working since 13 August please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00823", "transcript": "somebody took 100,000 naira from my account on 12", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00824", "transcript": "i was charged twice on 24 July that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00826", "transcript": "the app has been down since 27 July i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00828", "transcript": "the app has been down since 17 July i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00829", "transcript": "i sent money since 21 July the app say failed but my balance don reduce by 65,000 naira please help me", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00830", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00832", "transcript": "the atm rejected my card since 12 July it kept saying insufficient funds but i had 100,000 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00833", "transcript": "the ussd is not working since 24", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00834", "transcript": "i sent money since 08 August the app say failed but my balance don reduce by 12,000 naira please help me", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00836", "transcript": "my card was declined at the pos on 29 July", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00838", "transcript": "please my refund of 12,000 naira since 18 July has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00841", "transcript": "i sent money since 15 July the app say failed but my balance don reduce by 5,000 naira please help me", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00842", "transcript": "i sent money since 21 July the app say failed", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00843", "transcript": "i was charged twice on 24 August that is like 100,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00844", "transcript": "the app has been down since 21 July", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00845", "transcript": "i just want to update my phone number when you are less busy", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00846", "transcript": "i was charged twice on 05 August that is like 100,000 naira extra please can you check it", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00847", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00848", "transcript": "i am still waiting for 5,000 naira reversal from", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00849", "transcript": "i am still waiting for 25,000 naira reversal from 23 August please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00851", "transcript": "the app has been down since 31 July", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00852", "transcript": "please my refund of 5,000 naira since 22", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00854", "transcript": "the ussd is not working since 27 July please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00855", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00856", "transcript": "please my refund of 1,500 naira since 09", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00857", "transcript": "why did you charge me 5,000 naira extra on", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00858", "transcript": "the atm rejected my card since 16 July it kept saying insufficient funds but i had 100,000 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00860", "transcript": "somebody took 65,000 naira from my account on 02", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00861", "transcript": "the app has been down since 18 July", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00862", "transcript": "my card was declined at the pos on 17 August but i have up to 1,500 naira please check my card", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00865", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00866", "transcript": "good afternoon i just want to confirm my balance thank you", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00867", "transcript": "thank you for helping me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00868", "transcript": "somebody took 65,000 naira from my account on 21", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00869", "transcript": "please i saw a debit of 1,500 naira i did not do this on 27 July i need this checked urgently", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00870", "transcript": "good afternoon i just want", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00872", "transcript": "please can you send me my statement for last month", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00873", "transcript": "my card was declined at the pos on 31 July but i have up to 12,000 naira please check my card", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00874", "transcript": "please my refund of 8,000 naira since 16 July has not come i have been calling since", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00875", "transcript": "please i saw a debit of 1,500 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00877", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00878", "transcript": "i sent money since 21 July the app say failed but my balance don reduce by 12,000 naira please help me", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00880", "transcript": "i am still waiting for 65,000 naira reversal from 10 August please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00881", "transcript": "the atm rejected my card since 11 August it kept saying insufficient funds but i had 100,000 naira", "category": "card_declined", "eff_label": 1}
+{"customer_id": "CUST00882", "transcript": "i am still waiting for 1,500 naira reversal from 24 August please when will it enter my account", "category": "delayed_refund", "eff_label": 1}
+{"customer_id": "CUST00883", "transcript": "thank you for helping me last time everything is fine now", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00884", "transcript": "please can you send me", "category": "other", "eff_label": 0}
+{"customer_id": "CUST00885", "transcript": "the ussd is not working since 19 August please when will this be fixed", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00887", "transcript": "why did you charge me 8,000 naira extra on", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00888", "transcript": "why did you charge me 1,500 naira extra on 21 August nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00889", "transcript": "please i saw a debit of 25,000 naira i did", "category": "unauthorised_deduction", "eff_label": 1}
+{"customer_id": "CUST00890", "transcript": "i was charged twice on 20 August that is", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00893", "transcript": "the app has been down since 25 July i cannot send money at all please fix it", "category": "app_downtime", "eff_label": 1}
+{"customer_id": "CUST00896", "transcript": "good day please my transfer of 40,000 naira on 25 July it failed but the money don leave my account", "category": "failed_transaction", "eff_label": 1}
+{"customer_id": "CUST00898", "transcript": "why did you charge me 1,500 naira extra on 21 July nobody explained this fee to me before", "category": "unfair_charge", "eff_label": 1}
+{"customer_id": "CUST00899", "transcript": "why did you charge me 12,000 naira extra on", "category": "unfair_charge", "eff_label": 1}

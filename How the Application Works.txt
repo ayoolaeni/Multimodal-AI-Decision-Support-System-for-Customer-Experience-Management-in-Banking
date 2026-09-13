@@ -1,0 +1,296 @@
+HOW THE APPLICATION WORKS
+(Simple Q&A notes, saved from a conversation with Claude)
+
+============================================================
+Q1: It's working, how can I operate the app to see the function?
+    (Explain to me like a baby)
+============================================================
+
+1. OPEN IT
+The app runs in a web browser. Open Chrome/Edge and go to:
+    http://localhost:8501
+
+2. WHAT YOU WILL SEE
+A page titled "Multimodal Customer Experience Decision Support" with:
+- A yellow warning banner at the top: "Recommendations only" — reminding
+  everyone the app never acts on its own, a human officer decides.
+- A SIDEBAR on the left with filter controls.
+- A big list in the middle: "Ranked worklist" — a list of (fake/synthetic)
+  bank customers, sorted from most urgent to least urgent.
+
+3. HOW TO EXPLORE A CUSTOMER
+Each customer shows as a collapsed bar, like:
+    #1 · CUST00042 · risk 0.87 · dominant: Written complaint/chat
+
+- #1        = their rank (1 = most urgent)
+- risk 0.87 = risk score from 0 to 1 (higher = more concerning)
+- dominant  = which evidence type (text, voice, or transaction) drove the
+              score the most
+
+Click on the bar to expand it. Inside you'll see:
+- The recommended next action (e.g. "Escalate to fraud team")
+- A breakdown of WHY — a score for each of the 3 evidence types
+  (Text / Voice / Transaction)
+- Snippets of the actual complaint text or call transcript, if available
+- On the right: a radio button where the "officer" can mark the customer
+  as "Act on recommendation" or "Dismiss" — for the demo only, does
+  nothing real.
+
+4. SIDEBAR FILTERS (left side)
+- Minimum risk score slider — drag up to only show riskier customers
+- Segment — filter by customer type (mobile app user vs USSD user)
+- Dominant signal — filter by which evidence type is driving the flag
+- Hide dismissed — hides ones already marked "Dismiss"
+
+5. THAT'S IT
+It's a read-only dashboard — nothing else to "run." Scroll through the
+list, click a few customers open, try the filters. That shows the whole
+feature: combining text + voice + transaction data into one ranked,
+explainable list for a human to review.
+
+
+============================================================
+Q2: The AI is the one giving the recommendation, e.g. "Recommended
+    next-best action: Investigate app/session drop-off; check for
+    outages affecting this customer's channel." What is the work of
+    the AI, and why train the model? Explain simply.
+============================================================
+
+TWO DIFFERENT THINGS ARE HAPPENING:
+
+1) The AI's REAL job: turning messy evidence into a risk score
+The AI looks at three types of raw evidence per customer:
+- Text — their complaint/chat messages
+- Voice — their call transcript
+- Transaction — their banking behaviour (failed transfers, declines, etc.)
+
+For each one, a trained model reads it and outputs a NUMBER (risk score)
+and sometimes a CATEGORY (like "unfair_charge" or "card_declined"). A
+fusion model then combines all three numbers into one final risk score
+and figures out which evidence was the biggest driver ("dominant
+modality"). That is the real AI work — reading thousands of complaints
+and transcripts at scale, which no human could do by hand.
+
+2) The "Recommended next-best action" text is NOT written by AI
+That sentence comes from a plain lookup table in config.yaml, not from
+the AI. The system just says: "the dominant signal was X, so print the
+sentence written next to X in the table." A human wrote all those
+sentences in advance. The AI only decided WHICH label applied.
+
+WHY TRAIN THE MODEL AT ALL?
+Training is how the AI LEARNS to read text/behaviour and assign a risk
+number, instead of a human hand-writing rules like "if the complaint
+contains 'refund', risk = 0.7."
+- We gave it 900 example customers where the right answer was already
+  known (dissatisfied or not).
+- The model studied those examples repeatedly ("epochs") and adjusted
+  itself to get better at guessing correctly.
+- Now it can look at a NEW customer it has never seen and make a
+  reasonable guess, because it learned the general pattern.
+
+Without training, the model would just guess randomly — you can see
+this in the training log: epoch 1 was worse (loss 0.668), epoch 3 was
+better (loss 0.609) because it learned from the examples.
+
+IN ONE SENTENCE: the AI's job is READING and SCORING each customer's
+evidence; picking the ACTION SENTENCE is just a simple lookup table a
+human already wrote.
+
+
+============================================================
+Q3: Where is the data that was trained? What model trained the data?
+    If an officer wants to input a new customer complaint, how can
+    they do it — or is that not needed?
+============================================================
+
+1) WHERE IS THE TRAINING DATA?
+Inside the project folder, in data/:
+- data/raw/customers.jsonl — 900 sample ("synthetic") customer records:
+  made-up complaint texts, call transcripts, and transaction numbers.
+  NOT real bank data — the project rules forbid real customer data, so
+  a script (ingest.py) invented realistic-looking sample customers.
+- data/processed/customers.jsonl — the same 900 customers, cleaned up
+  (names/emails removed) and with some data randomly deleted on purpose,
+  to simulate "this customer never called in" etc.
+
+So: the data is a sample, and it lives as plain text files in the project
+folder.
+
+2) WHAT MODEL TRAINED THE DATA?
+Three small models, one per evidence type, plus one that combines them:
+
+  Evidence type            | Model used
+  --------------------------|--------------------------------------------
+  Text (complaints/chat)    | DistilBERT — a pre-trained language AI,
+                             | fine-tuned on the 900 examples
+  Voice (call transcripts)  | Same DistilBERT model — voice is first
+                             | converted to text (Whisper speech-to-text),
+                             | then read the same way as text
+  Transaction (behaviour)   | Logistic Regression — a simple, classic
+                             | statistics model
+  Combining all three       | Logistic Regression again — a small
+                             | "fusion" model blending the 3 scores into
+                             | 1 final risk score
+
+Trained results are saved in models/: text_model, txn_model.joblib,
+fusion_model.joblib. That's the "brain" — once trained it doesn't need
+retraining every time, it just gets reused to score customers.
+
+3) CAN AN OFFICER TYPE IN A NEW COMPLAINT?
+No — not right now. The app only READS a pre-made file,
+results/scored_customers.csv, created once by running evaluate.py on
+the 900 fake customers. The dashboard is a READ-ONLY VIEWER of a fixed
+batch. There is no text box for an officer to type a new complaint and
+get a live score. (This could be built later if ever needed, but was
+not required for this demo.)
+
+
+============================================================
+Q4: For the demo project, in real life how is the device expected to
+    get its data?
+============================================================
+
+The README explicitly marks real-world integrations as OUT OF SCOPE for
+this academic build — it deliberately stops at "runnable locally with
+sample data." But in an ACTUAL bank deployment, each evidence type would
+come from an existing bank system:
+
+  Evidence type          | Real-world source
+  ------------------------|---------------------------------------------
+  Text (complaints/chat)  | The bank's existing complaint/ticketing
+                           | system, live chat logs, or emails — pulled
+                           | automatically, not typed in by the officer
+  Voice (calls)           | Call-centre recordings already stored by the
+                           | phone/IVR system — AI runs speech-to-text
+                           | on them automatically
+  Transaction (behaviour) | The core banking system — records of failed
+                           | transfers, card declines, app login activity
+                           | — this data already exists in bank databases
+
+HOW IT WOULD FLOW:
+1. A background job (not a person) pulls new complaints, new call
+   recordings, and recent transaction activity — on a schedule (e.g.
+   nightly or hourly).
+2. The AI scores every customer automatically, same as evaluate.py does
+   now, just on real data instead of fake data.
+3. The officer opens the dashboard each morning and sees a FRESH,
+   AUTO-UPDATED ranked list — they never type anything in.
+
+Honest way to describe this prototype: it proves the SCORING AND FUSION
+LOGIC works, using synthetic data standing in for the three real feeds.
+Hooking it up to a real complaint system, call-recording archive, and
+core banking database is exactly the "production integration" work the
+README marks out of scope for this academic build.
+
+
+============================================================
+Q5: When the officer sees the score, what is their action? Is the
+    score there to tell the officer how urgent the customer's
+    complaint is?
+============================================================
+
+Yes — exactly. The score tells the officer HOW URGENT/CONCERNING a
+customer is, so they know who to deal with first.
+
+WHAT THE SCORE MEANS:
+- Risk score (0 to 1) — how likely this customer is to be a serious
+  problem (angry, about to leave the bank, victim of fraud, etc.).
+  Higher = more urgent.
+- Priority rank (#1, #2, #3...) — customers sorted by that score, so #1
+  is the most urgent customer that day, #2 is next, and so on.
+
+Think of it like a hospital triage nurse: the AI doesn't treat the
+patient, it just says "this one needs a doctor now, that one can wait."
+
+WHAT THE OFFICER ACTUALLY DOES WITH IT:
+1. Open the dashboard — see the ranked list, top to bottom = most urgent
+   to least urgent.
+2. Start from the top. Open customer #1 first (highest risk).
+3. Read the "why" — which evidence caused the high score (e.g. "this
+   customer's complaint mentions an unauthorised deduction, and they've
+   had 3 failed transfers this week").
+4. Read the suggested action (e.g. "Escalate to fraud/dispute team for
+   urgent investigation") — just a suggestion, the officer decides if it
+   makes sense.
+5. The officer does the REAL work themselves — calling the customer,
+   checking their account, reversing a charge, escalating to fraud team,
+   etc. THE AI DOES NONE OF THIS. It only pointed them to the right
+   customer and gave a starting hint.
+6. Mark it in the app — "Act on recommendation" or "Dismiss" — just for
+   tracking, not because the app does anything automatically.
+7. Move to the next customer down the list, repeat — working through
+   urgent cases first instead of randomly or waiting for louder
+   complaints.
+
+THE KEY RULE (legal/ethical, baked into the whole project):
+The AI NEVER contacts the customer, NEVER reverses a charge, NEVER
+blocks a card by itself. It only answers one question: "out of all our
+customers, who should a human look at first, and why?" Every actual
+decision and action stays with the officer.
+
+
+============================================================
+Q6: How does my client run this app on her own laptop, after she has
+    installed Docker Desktop? (Simple steps, no coding knowledge needed)
+============================================================
+
+WHAT SHE NEEDS FIRST:
+- A Windows or Mac laptop.
+- Docker Desktop installed and opened at least once (so it has finished
+  its first-time setup). Download link: https://www.docker.com/products/docker-desktop/
+- The project folder (this whole folder) copied onto her laptop, e.g. on
+  the Desktop.
+
+STEP-BY-STEP:
+
+1. START DOCKER DESKTOP
+   Open the Docker Desktop app and wait until it says it is "running"
+   (the whale icon in the taskbar/menu bar stops animating). Leave it
+   open in the background — it must stay open the whole time she uses
+   the app.
+
+2. OPEN A TERMINAL IN THE PROJECT FOLDER
+   - Windows: open the project folder in File Explorer, click into the
+     address bar at the top, type "cmd" and press Enter — this opens a
+     black command window already inside the right folder.
+   - Mac: open Terminal, type "cd " (with a space, no quotes), drag the
+     project folder into the Terminal window, then press Enter.
+
+3. BUILD AND START THE APP
+   In that terminal window, type this single command and press Enter:
+       docker compose up
+   The first time, this will take a few minutes — Docker is downloading
+   everything the app needs and preparing the sample data. She will see
+   a lot of text scroll by; that is normal. Wait until it stops
+   scrolling and settles (it will mention "Streamlit" and a URL).
+
+4. OPEN THE APP IN A BROWSER
+   Open Chrome/Edge/Safari and go to:
+       http://localhost:8501
+   The "Multimodal Customer Experience Decision Support" dashboard
+   should appear (see Q1 above for what to do once it's open).
+
+5. WHEN SHE IS DONE FOR THE DAY
+   Go back to the terminal window and press Ctrl + C to stop the app.
+   Closing the terminal window also stops it. Docker Desktop itself can
+   then be closed too.
+
+6. TO RUN IT AGAIN LATER
+   She does not need to repeat all the steps every time. Next time she
+   wants to use the app, she only needs to:
+   - Open Docker Desktop and wait for it to say "running"
+   - Open a terminal in the project folder (step 2)
+   - Type: docker compose up
+   - Go to http://localhost:8501
+   This restart is much faster than the first time, since everything is
+   already downloaded and prepared.
+
+THINGS THAT CAN GO WRONG:
+- "docker: command not found" / "'docker' is not recognized" — Docker
+  Desktop is not open yet, or needs a laptop restart after installing.
+- Page won't load at localhost:8501 — check the terminal window is
+  still open and hasn't shown an error; wait a little longer on first
+  run since it trains the models before the page becomes available.
+- Nothing to type herself — she never needs to install Python, or any
+  of the individual pieces (pandas, torch, etc). Docker packages all of
+  that inside itself automatically.

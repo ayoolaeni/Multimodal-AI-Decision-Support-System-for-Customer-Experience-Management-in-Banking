@@ -1,0 +1,18 @@
+.venv/
+venvs/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+.pytest_cache/
+.streamlit/
+data/raw/
+data/audio/
+data/processed/
+data/synthetic/
+models/
+results/
+notebooks/
+tests/
+*.md
+How the Application Works.txt

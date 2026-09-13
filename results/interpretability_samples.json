@@ -1,0 +1,57 @@
+[
+  {
+    "customer_id": "CUST00068",
+    "risk_score": 0.7522,
+    "dominant_modality": "txn",
+    "contributing": {
+      "text": 1.325,
+      "voice": null,
+      "txn": 2.2393
+    },
+    "next_best_action": "Investigate app/session drop-off; check for outages affecting this customer's channel."
+  },
+  {
+    "customer_id": "CUST00358",
+    "risk_score": 0.7058,
+    "dominant_modality": "txn",
+    "contributing": {
+      "text": 1.2369,
+      "voice": null,
+      "txn": 2.0923
+    },
+    "next_best_action": "Investigate app/session drop-off; check for outages affecting this customer's channel."
+  },
+  {
+    "customer_id": "CUST00025",
+    "risk_score": 0.7047,
+    "dominant_modality": "txn",
+    "contributing": {
+      "text": null,
+      "voice": 0.235,
+      "txn": 3.0888
+    },
+    "next_best_action": "Investigate app/session drop-off; check for outages affecting this customer's channel."
+  },
+  {
+    "customer_id": "CUST00746",
+    "risk_score": 0.6931,
+    "dominant_modality": "txn",
+    "contributing": {
+      "text": 1.3048,
+      "voice": null,
+      "txn": 1.9636
+    },
+    "next_best_action": "Verify and process pending reversal; contact customer to confirm resolution."
+  },
+  {
+    "customer_id": "CUST00548",
+    "risk_score": 0.6768,
+    "dominant_modality": "txn",
+    "contributing": {
+      "text": 1.3644,
+      "voice": null,
+      "txn": 1.8288
+    },
+    "next_best_action": "Investigate app/session drop-off; check for outages affecting this customer's channel."
+  }
+]
