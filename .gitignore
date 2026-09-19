@@ -19,5 +19,8 @@ Thumbs.db
 # secrets
 .env
 
+# Client zip built by make_client_zip.ps1
+dist/
+
 # Claude Code local state
 .claude/

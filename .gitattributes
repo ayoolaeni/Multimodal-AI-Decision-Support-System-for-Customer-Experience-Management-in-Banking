@@ -1,0 +1,6 @@
+# Scripts that run inside the Linux container must keep Unix line endings,
+# even when cloned on Windows (git autocrlf would otherwise break them).
+*.sh   text eol=lf
+Dockerfile text eol=lf
+# Windows launchers need Windows line endings.
+*.bat  text eol=crlf

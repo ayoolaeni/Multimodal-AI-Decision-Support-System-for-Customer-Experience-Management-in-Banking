@@ -8,7 +8,8 @@ Q1: It's working, how can I operate the app to see the function?
 
 1. OPEN IT
 The app runs in a web browser. Open Chrome/Edge and go to:
-    http://localhost:8501
+    http://localhost:8502   (started with docker compose)
+    (or http://localhost:8501 if started without Docker)
 
 2. WHAT YOU WILL SEE
 A page titled "Multimodal Customer Experience Decision Support" with:
@@ -141,8 +142,9 @@ No — not right now. The app only READS a pre-made file,
 results/scored_customers.csv, created once by running evaluate.py on
 the 900 fake customers. The dashboard is a READ-ONLY VIEWER of a fixed
 batch. There is no text box for an officer to type a new complaint and
-get a live score. (This could be built later if ever needed, but was
-not required for this demo.)
+get a live score on this first page. (UPDATE: this is now possible on
+the separate "Live Triage" page - see Q7. The officer can type a new
+complaint there and the AI rates it straight away.)
 
 
 ============================================================
@@ -266,7 +268,7 @@ STEP-BY-STEP:
 
 4. OPEN THE APP IN A BROWSER
    Open Chrome/Edge/Safari and go to:
-       http://localhost:8501
+       http://localhost:8502
    The "Multimodal Customer Experience Decision Support" dashboard
    should appear (see Q1 above for what to do once it's open).
 
@@ -281,16 +283,111 @@ STEP-BY-STEP:
    - Open Docker Desktop and wait for it to say "running"
    - Open a terminal in the project folder (step 2)
    - Type: docker compose up
-   - Go to http://localhost:8501
+   - Go to http://localhost:8502
    This restart is much faster than the first time, since everything is
    already downloaded and prepared.
 
 THINGS THAT CAN GO WRONG:
 - "docker: command not found" / "'docker' is not recognized" — Docker
   Desktop is not open yet, or needs a laptop restart after installing.
-- Page won't load at localhost:8501 — check the terminal window is
+- Page won't load at localhost:8502 — check the terminal window is
   still open and hasn't shown an error; wait a little longer on first
   run since it trains the models before the page becomes available.
+- "port is already allocated" / "Bind for 0.0.0.0:8501 failed" — another
+  program on the laptop is already using that port. This project now
+  uses port 8502 on the laptop (set in docker-compose.yml), so open
+  http://localhost:8502. If 8502 is also taken, change the first number
+  in the line "8502:8501" in docker-compose.yml to any free number.
 - Nothing to type herself — she never needs to install Python, or any
   of the individual pieces (pandas, torch, etc). Docker packages all of
   that inside itself automatically.
+
+
+============================================================
+Q7: What is the "Live Triage" page? How does a complaint come in
+    and how does the AI agent rate it? (Simple explanation)
+============================================================
+
+WHY IT WAS ADDED
+The first page (the ranked worklist) only shows a finished batch. It
+cannot show a complaint ARRIVING and being rated. Live Triage fills
+that gap so the demo shows the whole story: complaint in -> AI rates it
+-> officer decides.
+
+HOW TO OPEN IT
+Start the app as usual (docker compose up, then http://localhost:8502).
+In the LEFT SIDEBAR you will now see two pages. Click "Live Triage".
+(The first time it takes about 25 seconds to load the trained models.)
+
+WHAT IS THE "AI AGENT"?
+Think of it as a junior analyst that handles ONE complaint step by
+step, and shows its working:
+  1. Receives the complaint (personal details like phone numbers and
+     account numbers are removed first).
+  2. Reads and classifies it (text model): what is it about, and how
+     unhappy does the customer sound?
+  3. Looks up the customer's transaction history (transaction model):
+     failed transfers, card declines, changes in app use.
+  4. If there is a call transcript, scores that too.
+  5. Combines all the evidence into ONE risk score (fusion model).
+     If some evidence is missing, it is NOT treated as zero - the
+     weight moves to the evidence that is present.
+  6. Gives a priority tier and a response-time target:
+        RED    Critical - reply within 2 hours
+        ORANGE High     - reply within 8 hours
+        YELLOW Medium   - reply within 24 hours
+        GREEN  Low      - reply within 72 hours
+  7. Suggests the next action and drafts a reply to the customer.
+
+IS AN LLM / CLAUDE / PAID SERVICE USED?
+No. It uses the SAME trained models already in the models/ folder.
+It is free, runs offline on the laptop, and gives the same answer
+every time. The draft replies and next actions are ready-made
+templates in config.yaml (a human wrote them), not AI-generated text.
+The AI's real job is still reading and scoring; the templates only
+turn that result into sentences.
+
+HOW TO DEMONSTRATE IT
+- "Simulate 1 complaint": a random customer and complaint (from the
+  sample data) arrives. Watch the agent's steps appear one by one,
+  then the case drops into the queue below.
+- "Simulate 5 at once": fills the queue quickly. The queue sorts
+  itself so the most urgent case is always at the top.
+- "Type a complaint": type your own complaint, pick a customer (so the
+  agent can look up their transactions, or choose "Unknown customer"
+  to see it work without transaction history), pick the channel, and
+  press "Send to the AI agent".
+- Click a case to open it: you see the complaint, WHY it got that
+  rating, the suggested action, the agent's full step-by-step trace,
+  and an editable draft reply.
+- The officer clicks Approve or Dismiss. This only records the
+  decision on screen. NOTHING is sent to the customer and no account
+  is changed - the AI recommends, the human decides.
+- Sidebar: a switch to show the steps slowly (good for presenting) or
+  instantly, and a button to clear the queue.
+
+THINGS TO BE HONEST ABOUT WHEN PRESENTING
+- The steps are shown slowly on purpose for the audience. The real
+  scoring takes well under a second.
+- The models were trained on invented (synthetic) complaints, so
+  complaints worded very differently from the training examples may be
+  rated less reliably. This is a proof of concept, not a bank-ready
+  system.
+- The customer look-up uses the sample customers, standing in for the
+  bank's core banking system. In a real bank, complaints and
+  transaction history would arrive automatically from those systems
+  (see Q4).
+- A harmless message from a customer with a bad transaction history
+  can still rate Medium. That is the fusion working as designed:
+  behaviour counts as well as words.
+
+WHERE THE CODE IS
+- app/pages/1_Live_Triage.py  the page the officer sees
+- src/triage.py               the agent (steps, tiers, reply)
+- config.yaml                 tiers, response times, reply templates
+                              (editable without touching code)
+- tests/test_triage.py        automatic checks for the agent
+
+
+github link
+https://github.com/ayoolaeni/Multimodal-AI-Decision-Support-System-for-Customer-Experience-Management-in-Banking

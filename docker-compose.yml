@@ -2,7 +2,9 @@ services:
   app:
     build: .
     ports:
-      - "8501:8501"
+      # Host port defaults to 8502 (8501 is often taken by other Streamlit
+      # apps). Override with e.g. APP_PORT=8600 if 8502 is also taken.
+      - "${APP_PORT:-8502}:8501"
     volumes:
       - ./data:/app/data
       - ./models:/app/models

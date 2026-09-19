@@ -321,16 +321,32 @@ No Python setup needed — just [Docker Desktop](https://www.docker.com/products
 docker compose up --build
 ```
 
-Then open **http://localhost:8501** in a browser.
+Then open **http://localhost:8502** in a browser (the **Live Triage** page is in
+the sidebar). Port 8502 is used because 8501 is often taken by other Streamlit
+apps; set `APP_PORT` (e.g. `APP_PORT=8600 docker compose up`) to change it.
 
-On first run the container automatically generates the synthetic dataset and
-trains all four models (this can take several minutes on CPU — the container
-logs will show progress). On every run after that it reuses what's already in
-`data/`, `models/`, and `results/` (mounted from the host) and starts the app
-immediately. Delete those folders (or run `docker compose build --no-cache`)
+On Windows, non-developers can simply double-click **`START_APP.bat`** (it checks
+that Docker Desktop is running, starts the app, waits until it is ready and opens
+the browser) and **`STOP_APP.bat`** when done. `READ ME FIRST.txt` explains this in
+plain language for a client.
+
+On first run the container generates the synthetic dataset and trains the models
+whenever `models/`, `results/` or `data/processed/` is missing (this can take
+several minutes on CPU and needs internet to fetch the base language model — the
+container logs will show progress). On every run after that it reuses what's
+already in `data/`, `models/`, and `results/` (mounted from the host) and starts
+the app immediately. Delete those folders (or run `docker compose build --no-cache`)
 to force a full retrain.
 
 Stop the app with `Ctrl+C`, or `docker compose down` to remove the container.
+
+#### Sending the project to a client as a zip
+
+Run `powershell -ExecutionPolicy Bypass -File make_client_zip.ps1` from the project
+folder. It writes `dist/mariam-app.zip` (about 240 MB), leaving out `.venv` and git
+history but including the trained models, so the client's first start does not have
+to train anything. The client only needs Docker Desktop and an internet connection
+for the first build (Docker downloads PyTorch and the other packages).
 
 ---
 

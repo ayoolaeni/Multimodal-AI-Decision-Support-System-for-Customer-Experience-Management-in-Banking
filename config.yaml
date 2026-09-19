@@ -64,3 +64,24 @@ action_map:
   text_failed_transaction: "Trace the failed transaction and initiate reversal if applicable."
   voice_negative_call: "Review call transcript; officer to follow up directly with the customer."
   low_risk: "No urgent action; continue routine monitoring."
+
+# Live Triage demo (app/pages/1_Live_Triage.py, src/triage.py).
+# Risk score -> priority tier + response-time target. Highest tier first;
+# a case gets the first tier whose min_risk it meets.
+triage:
+  tiers:
+    - {name: Critical, min_risk: 0.60, sla_hours: 2}
+    - {name: High,     min_risk: 0.45, sla_hours: 8}
+    - {name: Medium,   min_risk: 0.30, sla_hours: 24}
+    - {name: Low,      min_risk: 0.00, sla_hours: 72}
+
+# Draft customer replies, keyed on complaint category. Templates only - the
+# officer reviews and edits before anything is sent (nothing is sent by the app).
+reply_templates:
+  failed_transaction: "Dear customer, we are sorry your transaction did not go through. We are tracing it and will update you within {sla} hours."
+  unauthorised_deduction: "Dear customer, we take unauthorised deductions very seriously. Your case has been passed to our dispute team and you will hear from us within {sla} hours."
+  unfair_charge: "Dear customer, we are sorry about the charge you queried. We are reviewing it and will explain or correct it within {sla} hours."
+  delayed_refund: "Dear customer, we apologise for the delay with your refund. We are following it up and will give you a status update within {sla} hours."
+  card_declined: "Dear customer, we are sorry your card was declined. We are checking your card status and will get back to you within {sla} hours."
+  app_downtime: "Dear customer, we are sorry the app or USSD is not working for you. We are checking for any outage and will update you within {sla} hours."
+  other: "Dear customer, thank you for contacting us. Your message has been received and an officer will respond within {sla} hours."

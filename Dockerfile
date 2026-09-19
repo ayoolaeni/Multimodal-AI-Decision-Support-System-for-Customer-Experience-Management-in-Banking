@@ -15,7 +15,9 @@ RUN pip install --no-cache-dir --retries 20 --timeout 120 -r requirements.txt
 
 COPY . .
 
-RUN chmod +x docker-entrypoint.sh
+# Strip Windows line endings (a zip made on Windows can carry them) or the
+# script fails with a confusing "no such file or directory".
+RUN sed -i 's/\r$//' docker-entrypoint.sh && chmod +x docker-entrypoint.sh
 
 EXPOSE 8501
 
